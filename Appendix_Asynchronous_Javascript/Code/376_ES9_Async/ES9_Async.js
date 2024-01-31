@@ -1,5 +1,5 @@
 //Two new ES2018 features 
-const urls = [
+let urls = [
     'https://swapi.dev/api/people/1/',
     'https://swapi.dev/api/people/2/',
     'https://swapi.dev/api/people/3/',
@@ -21,3 +21,38 @@ Promise.all(urls.map(url => {
     .finally(()=> console.log('extra')); //Will be called regardless if the promise resolves or rejects
 
 //For await... of
+urls = ['https://jsonplaceholder.typicode.com/users',
+              'https://jsonplaceholder.typicode.com/posts',
+              'https://jsonplaceholder.typicode.com/albums'
+];
+
+//We saw this in the previous video
+const getData = async function(){
+    try{
+        const [users, posts, albums] = await Promise.all(urls.map(url => 
+            fetch(url).then(resp => resp.json())
+        ))
+        console.log('users ', users);
+        console.log('posts ', posts);
+        console.log('albums ', albums);
+    }catch(err){
+        console.log(err, 'An error occurred');
+    }
+}
+
+//For.. of syntax - Allows us to loop through an iterable 
+const loopThrough = url => {
+    for (url of urls)
+        console.log(url);
+}
+ 
+//Let's rewrite getData() as follows 
+const getData2 = async function(){
+    const arrayOfPromises = urls.map(url => fetch(url))
+    for await(let request of arrayOfPromises){
+        const data = await request.json()
+        console.log(data);
+    }
+}
+
+getData2();
