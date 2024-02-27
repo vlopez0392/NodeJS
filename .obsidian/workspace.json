@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "569bac7366c82195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4af19075aaf7f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendix_Asynchronous_Javascript/Notes/373_Promises.md",
+                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
+                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
+                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md"
+                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md"
               }
             }
           }
@@ -158,21 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "569bac7366c82195",
+  "active": "5d4d814af932e325",
   "lastOpenFiles": [
+    "Section4/40_Why_use_modules",
+    "Section4/untitled folder",
+    "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
+    "Section4/40_Why_use_modules/40_Why_use_modules.md",
+    "Section4/38_The_require_Function/38_The_require_Function.md",
+    "Section4/38_The_require_Function/The require.md",
+    "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
+    "Appendix_Asynchronous_Javascript/Notes/372_Section_Overview.md",
+    "Appendix_Asynchronous_Javascript/Notes/373_Promises.md",
+    "Section4/38_The_require_Function",
     "Appendix_Asynchronous_Javascript/Code/374_Async_await/async_await.js",
     "Appendix_Asynchronous_Javascript/Code/374_Async_await",
     "Appendix_Asynchronous_Javascript/Code/373_Promises/374_Async_await",
-    "Appendix_Asynchronous_Javascript/Notes/372_Section_Overview.md",
-    "Appendix_Asynchronous_Javascript/Notes/373_Promises.md",
-    "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
     "Appendix_Asynchronous_Javascript/Code/373_Promises/jsonPlaceHolder.js",
     "Appendix_Asynchronous_Javascript/Code/373_Promises/Promises.js",
     "Appendix_Asynchronous_Javascript/Code/373_Promises",
     "Appendix_Asynchronous_Javascript/Code/373Promises",
-    "Appendix_Asynchronous_Javascript/Code/Promises.zip",
-    "Appendix_Asynchronous_Javascript/Code/Promises",
-    "Appendix_Asynchronous_Javascript/Code/untitled folder",
-    "Appendix_Asynchronous_Javascript/Code"
+    "Appendix_Asynchronous_Javascript/Code/Promises.zip"
   ]
 }
