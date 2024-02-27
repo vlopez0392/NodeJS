@@ -26,7 +26,7 @@ The *res* or response parameter we pass to the callback is an object (EventEmitt
 
 The data event has a parameter for a chunk of data returned by that event. A chunk is just a piece of data that is not necessarily the whole response. More than one data events may be received if the side of the response from the server is very large. Finally, we must call the *req.end()* function to make the request. 
 
-Now, if we use https in our URL, we get an ERR_INVALID_PROTOCOL error since the http module does not match withe use of https in our URL string. We must then first require the https module to communicate securely. The https module has similar functionality to the http module with additional functionality for secure communication.  
+Now, if we use https in our URL, we get an ERR_INVALID_PROTOCOL error since the http module does not match with the use of https in our URL string. We must then first require the https module to communicate securely. The https module has similar functionality to the http module with additional functionality for secure communication.  
 
 ### Destructing ECMA script syntax
 

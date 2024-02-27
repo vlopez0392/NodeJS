@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4d814af932e325",
+  "active": "d4af19075aaf7f7b",
   "lastOpenFiles": [
-    "Section4/40_Why_use_modules",
-    "Section4/untitled folder",
     "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
     "Section4/40_Why_use_modules/40_Why_use_modules.md",
+    "Section4/40_Why_use_modules",
+    "Section4/untitled folder",
     "Section4/38_The_require_Function/38_The_require_Function.md",
     "Section4/38_The_require_Function/The require.md",
     "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
@@ -164,7 +164,6 @@
     "Appendix_Asynchronous_Javascript/Code/373_Promises/jsonPlaceHolder.js",
     "Appendix_Asynchronous_Javascript/Code/373_Promises/Promises.js",
     "Appendix_Asynchronous_Javascript/Code/373_Promises",
-    "Appendix_Asynchronous_Javascript/Code/373Promises",
-    "Appendix_Asynchronous_Javascript/Code/Promises.zip"
+    "Appendix_Asynchronous_Javascript/Code/373Promises"
   ]
 }
