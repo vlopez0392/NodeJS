@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b57784f0a8bf8f93",
+        "id": "6f0cf30c4bfd3f81",
         "type": "tabs",
         "children": [
           {
-            "id": "d4af19075aaf7f7b",
+            "id": "634923955ceb7d92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md",
+                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md",
+                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md",
+                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section4/40_Why_use_modules/40_Why_use_modules.md"
+                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md"
               }
             }
           }
@@ -146,13 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4af19075aaf7f7b",
+  "active": "634923955ceb7d92",
   "lastOpenFiles": [
+    "Section4/38_The_require_Function/38_The_require_Function.md",
+    "Section4/41_Creating_Modules/41_Creating_Modules.md",
     "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
     "Section4/40_Why_use_modules/40_Why_use_modules.md",
     "Section4/40_Why_use_modules",
     "Section4/untitled folder",
-    "Section4/38_The_require_Function/38_The_require_Function.md",
     "Section4/38_The_require_Function/The require.md",
     "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
     "Appendix_Asynchronous_Javascript/Notes/372_Section_Overview.md",
