@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md",
+                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md",
+                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md",
+                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section4/41_Creating_Modules/41_Creating_Modules.md"
+                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md"
               }
             }
           }
@@ -147,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "634923955ceb7d92",
+  "active": "5d4d814af932e325",
   "lastOpenFiles": [
-    "Section4/38_The_require_Function/38_The_require_Function.md",
+    "Section4/43_",
     "Section4/41_Creating_Modules/41_Creating_Modules.md",
-    "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
     "Section4/40_Why_use_modules/40_Why_use_modules.md",
+    "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
+    "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
+    "Section4/38_The_require_Function/38_The_require_Function.md",
     "Section4/40_Why_use_modules",
     "Section4/untitled folder",
     "Section4/38_The_require_Function/The require.md",

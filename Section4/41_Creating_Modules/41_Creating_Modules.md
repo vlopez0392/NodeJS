@@ -45,7 +45,7 @@ We do so as follows:
 ```js
 module.exports = {functionName: functionName};
 
-module.exports = {functionName}; //Short-hand syntax
+module.exports = {functionName,}; //Short-hand syntax
 ```
 
 Now, our *request.js* and *response.js* are as follows: 
