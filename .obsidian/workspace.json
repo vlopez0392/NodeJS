@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f0cf30c4bfd3f81",
+        "id": "aa61a8a749a771d9",
         "type": "tabs",
         "children": [
           {
-            "id": "634923955ceb7d92",
+            "id": "fb22c948effc0f0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
+                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
+                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
+                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md"
+                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md"
               }
             }
           }
@@ -146,14 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4d814af932e325",
+  "active": "fb22c948effc0f0f",
   "lastOpenFiles": [
-    "Section4/43_",
+    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript.md",
+    "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
+    "Section4/44_ECMAScript_Modules_Examples",
+    "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
     "Section4/41_Creating_Modules/41_Creating_Modules.md",
     "Section4/40_Why_use_modules/40_Why_use_modules.md",
     "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
-    "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
     "Section4/38_The_require_Function/38_The_require_Function.md",
+    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript/Untitled",
+    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript",
+    "Section4/43_CommonJS_vs_ECMAScript",
     "Section4/40_Why_use_modules",
     "Section4/untitled folder",
     "Section4/38_The_require_Function/The require.md",
@@ -163,10 +168,6 @@
     "Section4/38_The_require_Function",
     "Appendix_Asynchronous_Javascript/Code/374_Async_await/async_await.js",
     "Appendix_Asynchronous_Javascript/Code/374_Async_await",
-    "Appendix_Asynchronous_Javascript/Code/373_Promises/374_Async_await",
-    "Appendix_Asynchronous_Javascript/Code/373_Promises/jsonPlaceHolder.js",
-    "Appendix_Asynchronous_Javascript/Code/373_Promises/Promises.js",
-    "Appendix_Asynchronous_Javascript/Code/373_Promises",
-    "Appendix_Asynchronous_Javascript/Code/373Promises"
+    "Appendix_Asynchronous_Javascript/Code/373_Promises/374_Async_await"
   ]
 }

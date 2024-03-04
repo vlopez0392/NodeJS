@@ -1,3 +1,4 @@
+## Making HTTP Requests
 
 We will explore what we can do with the HTTP module and the power that built-in node functionality provides. 
 

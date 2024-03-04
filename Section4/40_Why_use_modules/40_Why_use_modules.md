@@ -1,3 +1,5 @@
+## Why use modules?
+
 Why do we use modules? What are the benefits of using modules? 
 
 A module contains some code which is dedicated to doing one thing well. We label modules according to their functionality, for example, *http.js*. We combine modules to create more complex structures which altogether make up our program. Our program relies on all of these modules working together to allow  
