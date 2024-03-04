@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa61a8a749a771d9",
+        "id": "76199bc2aa640dba",
         "type": "tabs",
         "children": [
           {
-            "id": "fb22c948effc0f0f",
+            "id": "57db092d273070e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
+                "file": "Section4/45_Module_Caching/45_Module_Caching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
+                "file": "Section4/45_Module_Caching/45_Module_Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
+                "file": "Section4/45_Module_Caching/45_Module_Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md"
+                "file": "Section4/45_Module_Caching/45_Module_Caching.md"
               }
             }
           }
@@ -146,28 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb22c948effc0f0f",
+  "active": "57db092d273070e7",
   "lastOpenFiles": [
-    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript.md",
-    "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
-    "Section4/44_ECMAScript_Modules_Examples",
-    "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
     "Section4/41_Creating_Modules/41_Creating_Modules.md",
+    "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
+    "Section4/45_Module_Caching/45_Module_Caching.md",
+    "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
+    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript.md",
+    "Section4/45_Module_Caching",
+    "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
+    "Appendix_Asynchronous_Javascript/Notes/373_Promises.md",
+    "Appendix_Asynchronous_Javascript/Notes/372_Section_Overview.md",
+    "Section4/44_ECMAScript_Modules_Examples/response.mjs",
+    "Section4/44_ECMAScript_Modules_Examples/request.mjs",
+    "Section4/44_ECMAScript_Modules_Examples/https.mjs",
+    "Section4/44_ECMAScript_Modules_Examples/response.js",
+    "Section4/44_ECMAScript_Modules_Examples/request.js",
+    "Section4/request.js",
+    "Section4/44_ECMAScript_Modules_Examples/https.js",
+    "Section4/https.js",
+    "Section4/44_ECMAScript_Modules_Examples",
     "Section4/40_Why_use_modules/40_Why_use_modules.md",
     "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
     "Section4/38_The_require_Function/38_The_require_Function.md",
-    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript/Untitled",
-    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript",
-    "Section4/43_CommonJS_vs_ECMAScript",
-    "Section4/40_Why_use_modules",
-    "Section4/untitled folder",
-    "Section4/38_The_require_Function/The require.md",
-    "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
-    "Appendix_Asynchronous_Javascript/Notes/372_Section_Overview.md",
-    "Appendix_Asynchronous_Javascript/Notes/373_Promises.md",
-    "Section4/38_The_require_Function",
-    "Appendix_Asynchronous_Javascript/Code/374_Async_await/async_await.js",
-    "Appendix_Asynchronous_Javascript/Code/374_Async_await",
-    "Appendix_Asynchronous_Javascript/Code/373_Promises/374_Async_await"
+    "Section4/38_The_require_Function/The require.md"
   ]
 }
