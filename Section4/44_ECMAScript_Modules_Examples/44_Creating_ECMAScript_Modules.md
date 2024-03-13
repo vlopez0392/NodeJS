@@ -1,4 +1,3 @@
-
 ## Creating ECMAScript modules 
 
 To use import statements, we modify the *http.js* as follows: 
