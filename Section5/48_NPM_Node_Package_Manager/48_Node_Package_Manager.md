@@ -13,4 +13,4 @@ When we talk about npm, there are two things we may be the talking about:
 
 2. The npm command. We use this command to manage all of our npm packages. NPM is bundled with the node executable and therefore it creates a centralized collection of code. If there is some module we want to use, we use this command to look for the modules we need. 
 
-According to the npm website, npm is relied upon by more than 11 million developers worldwide. This philosophy of sharing and open source has been central to node's success.  
+According to the npm website, npm is relied upon by more than 11 million developers worldwide. This philosophy of sharing and open source has been central to Node's success due to the amount of developers willing to share their contributions.

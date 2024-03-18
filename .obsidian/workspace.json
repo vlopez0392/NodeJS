@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
+                "file": "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
+                "file": "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
+                "file": "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md"
+                "file": "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md"
               }
             }
           }
@@ -147,31 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4d814af932e325",
+  "active": "57db092d273070e7",
   "lastOpenFiles": [
+    "Section5/49_Creating_NPM_package/response.js",
+    "Section5/49_Creating_NPM_package/request.js",
+    "Section5/49_Creating_NPM_package/https.js",
+    "Section5/49_Creating_NPM_package/package-lock.json",
+    "Section5/49_Creating_NPM_package/node_modules/axios/index.d.ts",
+    "Section5/49_Creating_NPM_package/node_modules/axios/SECURITY.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/lib/helpers/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/lib/env/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/lib/core/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/lib/adapters/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/MIGRATION_GUIDE.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/CHANGELOG.md",
+    "Section5/49_Creating_NPM_package/node_modules/axios/dist/esm/axios.min.js.map",
+    "Section5/49_Creating_NPM_package/node_modules/axios/dist/axios.min.js.map",
+    "Section5/49_Creating_NPM_package/node_modules/axios/dist/esm/axios.js.map",
+    "Section5/49_Creating_NPM_package/node_modules/axios/dist/axios.js.map",
+    "Section5/49_Creating_NPM_package/node_modules/axios/dist/node/axios.cjs.map",
+    "Section5/49_Creating_NPM_package/node_modules/axios/dist/browser/axios.cjs.map",
+    "Section5/49_Creating_NPM_package/node_modules/asynckit/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/form-data/Readme.md",
+    "Section5/49_Creating_NPM_package/node_modules/proxy-from-env/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/follow-redirects/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/combined-stream/Readme.md",
+    "Section5/49_Creating_NPM_package/node_modules/mime-types/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/mime-types/HISTORY.md",
+    "Section5/49_Creating_NPM_package/node_modules/mime-db/README.md",
+    "Section5/49_Creating_NPM_package/node_modules/mime-db/HISTORY.md",
+    "Section5/49_Creating_NPM_package/node_modules/delayed-stream/Readme.md",
     "Section4/47_Should_we_use_indexJS/47_Should_we_use_indexjs?.md",
-    "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
-    "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
-    "Section5/48_NPM_Node_Package_Manager",
-    "Section5",
-    "Section3/36_Node_Event_Emitter/events.js",
-    "Section3/36_Node_Event_Emitter/events_params.js",
-    "Section3/36_Node_Event_Emitter",
     "Section4/45_Module_Caching/45_Module_Caching.md",
     "Section4/41_Creating_Modules/41_Creating_Modules.md",
-    "Section4/47_Should_we_use_indexJS",
     "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
-    "Section4/46_index_js/internals/index.js",
-    "Section4/46_index_js/internals/response.js",
-    "Section4/46_index_js/internals/request.js",
-    "Section4/46_index_js/internals",
-    "Section4/43_CommonJS_vs_ECMAScript/43_CommonJS_vs_ECMAScript.md",
-    "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
-    "Appendix_Asynchronous_Javascript/Notes/373_Promises.md",
-    "Appendix_Asynchronous_Javascript/Notes/372_Section_Overview.md",
-    "Section4/40_Why_use_modules/40_Why_use_modules.md",
-    "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
-    "Section4/38_The_require_Function/38_The_require_Function.md",
-    "Section4/38_The_require_Function/The require.md"
+    "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
+    "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
+    "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md"
   ]
 }
