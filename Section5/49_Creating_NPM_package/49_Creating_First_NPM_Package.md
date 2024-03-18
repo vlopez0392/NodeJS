@@ -1,5 +1,7 @@
 ### Creating our first NPM package
 
+---
+
 What's the difference between a module and a package? A module is a file that contains some code which may be exported. A package is a collection of modules that have been packaged together.
 
 Suppose we want to implement the functionality in the http.js module in the previous section. We can use search in the npm website for packages that perform this functionality such as node-fetch, got or axios. 
