@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76199bc2aa640dba",
+        "id": "2064efbdfb529290",
         "type": "tabs",
         "children": [
           {
-            "id": "57db092d273070e7",
+            "id": "630cb1a9e517138e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
+                "file": "Section5/51_Using_3rd_party_modules/51_Using_3rd_party_modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
+                "file": "Section5/51_Using_3rd_party_modules/51_Using_3rd_party_modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
+                "file": "Section5/51_Using_3rd_party_modules/51_Using_3rd_party_modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md"
+                "file": "Section5/51_Using_3rd_party_modules/51_Using_3rd_party_modules.md"
               }
             }
           }
@@ -146,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4d814af932e325",
+  "active": "630cb1a9e517138e",
   "lastOpenFiles": [
-    "Section5/51_",
+    "Section4/41_Creating_Modules/41_Creating_Modules.md",
+    "Section4/40_Why_use_modules/40_Why_use_modules.md",
+    "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
+    "Section5/51_Using_3rd_party_modules/51_Using_3rd_party_modules.md",
+    "Section5/51_Using_3rd_party_modules/request.js",
+    "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
+    "Section5/51_Using_3rd_party_modules/package-lock.json",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/classes/URLSearchParams.js",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/classes/FormData.js",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/browser/classes/FormData.js",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/browser/classes/Blob.js",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/common/utils.js",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/index.js",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/classes",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/helpers/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/env/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/core/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/adapters/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/proxy-from-env/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/mime-types/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/mime-types/HISTORY.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/mime-db/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/mime-db/HISTORY.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/form-data/Readme.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/follow-redirects/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/delayed-stream/Readme.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/combined-stream/Readme.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/SECURITY.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/README.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/MIGRATION_GUIDE.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/axios/CHANGELOG.md",
+    "Section5/51_Using_3rd_party_modules/node_modules/asynckit/README.md",
     "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
     "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
-    "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
-    "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md",
-    "Section5/50_Packages_and_NPM_registry",
-    "Appendix_Asynchronous_Javascript/Notes/373_Promises.md",
-    "Appendix_Asynchronous_Javascript/Notes/372_Section_Overview.md",
-    "Section5/49_Creating_NPM_package/response.js",
-    "Section5/49_Creating_NPM_package/request.js",
-    "Section5/49_Creating_NPM_package/https.js",
-    "Section5/49_Creating_NPM_package/package-lock.json",
-    "Section5/49_Creating_NPM_package/node_modules/axios/index.d.ts",
-    "Section5/49_Creating_NPM_package/node_modules/axios/SECURITY.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/lib/helpers/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/lib/env/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/lib/core/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/lib/adapters/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/MIGRATION_GUIDE.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/CHANGELOG.md",
-    "Section5/49_Creating_NPM_package/node_modules/axios/dist/esm/axios.min.js.map",
-    "Section5/49_Creating_NPM_package/node_modules/axios/dist/axios.min.js.map",
-    "Section5/49_Creating_NPM_package/node_modules/axios/dist/esm/axios.js.map",
-    "Section5/49_Creating_NPM_package/node_modules/axios/dist/axios.js.map",
-    "Section5/49_Creating_NPM_package/node_modules/asynckit/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/form-data/Readme.md",
-    "Section5/49_Creating_NPM_package/node_modules/proxy-from-env/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/follow-redirects/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/combined-stream/Readme.md",
-    "Section5/49_Creating_NPM_package/node_modules/mime-types/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/mime-types/HISTORY.md",
-    "Section5/49_Creating_NPM_package/node_modules/mime-db/README.md",
-    "Section5/49_Creating_NPM_package/node_modules/mime-db/HISTORY.md",
-    "Section5/49_Creating_NPM_package/node_modules/delayed-stream/Readme.md",
-    "Section4/47_Should_we_use_indexJS/47_Should_we_use_indexjs?.md"
+    "Appendix_Asynchronous_Javascript/Notes/374_Async_Await.md"
   ]
 }

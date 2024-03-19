@@ -10,7 +10,7 @@ Three main reasons why we should use modules:
 	<br>
 	<li><b>Organize our code:</b> Consider the HTTP module <em>http.js</em> which we use to make requests against the server and receive some data back in a response. The HTTP module will have many different functionalities but we will probably require make use of requests and responses contained in, say the <em>request.js</em> and <em>response.js</em> modules. Then, we may organize the code in our HTTP module by requiring these two modules without needing to explicitly code them.</li>
 	<br>
-	<li><b>Expose only the functionality that will be used by other modules and hide details that are only relevant to that module:</b> For example, in out HTTP module, we don't necessarily need to know the details of how the response reads data from the server or how the request packages our data to be transmitted over the internet. These functionalities are relevant to their modules but not to our HTTP module. This simplifies our HTTP modules since we are only interested in the higher-level operations of the request and response modules.</li>
+	<li><b>Expose only the functionality that will be used by other modules and hide details that are only relevant to that module:</b> For example, in our HTTP module, we don't necessarily need to know the details of how the response reads data from the server or how the request packages our data to be transmitted over the internet. These functionalities are relevant to their modules but not to our HTTP module. This simplifies our HTTP modules since we are only interested in the higher-level operations of the request and response modules.</li>
 </ol>
 
 
