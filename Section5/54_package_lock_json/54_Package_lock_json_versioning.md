@@ -5,4 +5,4 @@ What is package-lock.json? This package allows us to work with a team of develop
 
 It shows not only the dependencies but also where the dependency originates from (resolved), verifies the package is not corrupt (integrity) with the integrity check and also includes the versions and informations for all the dependencies in the tree (requires).
 
-The following is a snippet of the package-lock.json in 
+The following is a snippet of the package-lock.json in

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section5/54_package_lock_json/54_Package_lock_json_versioning.md",
+                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section5/54_package_lock_json/54_Package_lock_json_versioning.md",
+                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section5/54_package_lock_json/54_Package_lock_json_versioning.md",
+                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section5/54_package_lock_json/54_Package_lock_json_versioning.md"
+                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md"
               }
             }
           }
@@ -146,19 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "630cb1a9e517138e",
+  "active": "5d4d814af932e325",
   "lastOpenFiles": [
+    "Section5/52_The_node_modules_folder/52_node_modules_folder.md",
+    "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
+    "Section7/69_What_is_a_web_server",
+    "Section5/53_Semantic_versioning/53_Semantic_versioning.md",
+    "Section5/54_package_lock_json/54_Package_lock_json_versioning.md",
     "Section4/47_Should_we_use_indexJS/47_Should_we_use_indexjs?.md",
     "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
     "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
     "Section4/40_Why_use_modules/40_Why_use_modules.md",
     "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
     "Section4/38_The_require_Function/38_The_require_Function.md",
-    "Section5/54_package_lock_json/54_Package_lock_json_versioning.md",
-    "Section5/53_Semantic_versioning/53_Semantic_versioning.md",
     "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
     "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
-    "Section5/52_The_node_modules_folder/52_node_modules_folder.md",
     "Section5/54_package_lock_json",
     "Section5/53_Semantic_versioning",
     "Section5/52_The_node_modules_folder/Untitled",
@@ -170,7 +173,6 @@
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/classes/URLSearchParams.js",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/classes/FormData.js",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js",
-    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/browser/classes/FormData.js",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/helpers/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/env/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/core/README.md",
@@ -182,7 +184,6 @@
     "Section5/51_Using_3rd_party_modules/node_modules/mime-db/HISTORY.md",
     "Section5/51_Using_3rd_party_modules/node_modules/form-data/Readme.md",
     "Section5/51_Using_3rd_party_modules/node_modules/follow-redirects/README.md",
-    "Section5/51_Using_3rd_party_modules/node_modules/delayed-stream/Readme.md",
-    "Section5/51_Using_3rd_party_modules/node_modules/combined-stream/Readme.md"
+    "Section5/51_Using_3rd_party_modules/node_modules/delayed-stream/Readme.md"
   ]
 }
