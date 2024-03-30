@@ -1,8 +1,10 @@
 ### What is a web server? 
 
-Node can be used to write many kinds of applications. From file parsers to making games. Node is almost always used to bring our programs to the web by building backends for web sites and mobile applications to manage the relevant data. 
+Node can be used to write many kinds of applications. From file parsers to making games. Node is almost always used to bring our programs to the web by building backends for web sites and mobile applications to manage the application relevant data. 
 
-What is a backend? A web server? An HTTP server and how do these work? Let's start with a simple example. When we type something in the browser, say an URL like facebook.com, our browser starts calling a system called the DNS or the Domain Name System. It uses DNS by talking with DNS servers across the internet. 
+What is a backend? A web server? An HTTP server and how do these work? Let's start with a simple example. When we type something in the browser, say an URL like *facebook.com*, our browser starts calling a system called the DNS or the Domain Name System. It uses DNS by talking with DNS servers across the internet. 
+
+Once the browser makes a request to the DNS server, it no longer has to make another request to the DNS server since a *DNS cache* stores the addresses returned by the DNS server. 
 
 These DNS servers, given an URL, look for the internet address of the servers where the resources associated with this URL are located (e.g. your facebook profile or pictures). This is similar to asking someone to look for a place in a map. Once they find it, they will answer with the exact address of the place we were looking for. In the case of a web server, an IP will be returned. 
 

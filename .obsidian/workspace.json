@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
+                "file": "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 359.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
+                "file": "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
+                "file": "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md"
+                "file": "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "5d4d814af932e325",
   "lastOpenFiles": [
+    "Section7/69_What_is_a_web_server/69_What_is_a_web_server ?.md",
+    "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md",
+    "Section7/70_Intro_to_HTTP_Responses_Requests/Untitled",
+    "Section7/70_Intro_to_HTTP_Responses_Requests",
     "Section5/52_The_node_modules_folder/52_node_modules_folder.md",
-    "Section7/69_What_is_a_web_server/69_What_is_a_web_server.md",
     "Section7/69_What_is_a_web_server",
     "Section5/53_Semantic_versioning/53_Semantic_versioning.md",
     "Section5/54_package_lock_json/54_Package_lock_json_versioning.md",
@@ -171,8 +174,6 @@
     "Section5/51_Using_3rd_party_modules/request.js",
     "Section5/51_Using_3rd_party_modules/package-lock.json",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/classes/URLSearchParams.js",
-    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/node/classes/FormData.js",
-    "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/helpers/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/env/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/core/README.md",
@@ -183,7 +184,6 @@
     "Section5/51_Using_3rd_party_modules/node_modules/mime-db/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/mime-db/HISTORY.md",
     "Section5/51_Using_3rd_party_modules/node_modules/form-data/Readme.md",
-    "Section5/51_Using_3rd_party_modules/node_modules/follow-redirects/README.md",
-    "Section5/51_Using_3rd_party_modules/node_modules/delayed-stream/Readme.md"
+    "Section5/51_Using_3rd_party_modules/node_modules/follow-redirects/README.md"
   ]
 }
