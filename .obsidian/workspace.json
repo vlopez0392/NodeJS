@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
+                "file": "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
+                "file": "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
+                "file": "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section7/71_HTTP_Requests/71_HTTP_Requests.md"
+                "file": "Section7/72_HTTP_Responses/72_HTTP_Responses.md"
               }
             }
           }
@@ -149,32 +148,34 @@
   },
   "active": "630cb1a9e517138e",
   "lastOpenFiles": [
+    "Section7/69_What_is_a_web_server/69_What_is_a_web_server ?.md",
     "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md",
     "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
+    "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
+    "Section7/74_HTTP_APIs_Routing/index.js",
+    "Section7/index.js",
+    "Section7/74_HTTP_APIs_Routing",
+    "Section7/74_",
+    "Section7/72_HTTP_Responses",
+    "Section7/71_HTTP_Requests/Untitled",
+    "Section5/52_The_node_modules_folder/52_node_modules_folder.md",
+    "Section5/51_Using_3rd_party_modules/51_Using_3rd_party_modules.md",
+    "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
+    "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
+    "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
+    "Section4/40_Why_use_modules/40_Why_use_modules.md",
+    "Section4/41_Creating_Modules/41_Creating_Modules.md",
     "Section7/71_HTTP_Requests",
     "Section5/54_package_lock_json/54_Package_lock_json_versioning.md",
     "Section5/53_Semantic_versioning/53_Semantic_versioning.md",
-    "Section7/69_What_is_a_web_server/69_What_is_a_web_server ?.md",
     "Section7/70_Intro_to_HTTP_Responses_Requests/Untitled",
     "Section7/70_Intro_to_HTTP_Responses_Requests",
-    "Section5/52_The_node_modules_folder/52_node_modules_folder.md",
     "Section7/69_What_is_a_web_server",
     "Section4/47_Should_we_use_indexJS/47_Should_we_use_indexjs?.md",
     "Section4/42_Exporting_Modules/42_Exporting_Modules.md",
     "Section4/44_ECMAScript_Modules_Examples/44_Creating_ECMAScript_Modules.md",
-    "Section4/40_Why_use_modules/40_Why_use_modules.md",
     "Section4/39_Making_HTTP_Requests/39_Making_HTTP_Requests.md",
     "Section4/38_The_require_Function/38_The_require_Function.md",
-    "Section5/49_Creating_NPM_package/49_Creating_First_NPM_Package.md",
-    "Section5/50_Packages_and_NPM_registry/50_Packages_NPM_registry.md",
-    "Section5/54_package_lock_json",
-    "Section5/53_Semantic_versioning",
-    "Section5/52_The_node_modules_folder/Untitled",
-    "Section5/52_The_node_modules_folder",
-    "Section5/51_Using_3rd_party_modules/51_Using_3rd_party_modules.md",
-    "Section4/41_Creating_Modules/41_Creating_Modules.md",
-    "Section5/51_Using_3rd_party_modules/request.js",
-    "Section5/51_Using_3rd_party_modules/package-lock.json",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/helpers/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/env/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/axios/lib/core/README.md",
@@ -182,8 +183,6 @@
     "Section5/51_Using_3rd_party_modules/node_modules/proxy-from-env/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/mime-types/README.md",
     "Section5/51_Using_3rd_party_modules/node_modules/mime-types/HISTORY.md",
-    "Section5/51_Using_3rd_party_modules/node_modules/mime-db/README.md",
-    "Section5/51_Using_3rd_party_modules/node_modules/mime-db/HISTORY.md",
-    "Section5/51_Using_3rd_party_modules/node_modules/form-data/Readme.md"
+    "Section5/51_Using_3rd_party_modules/node_modules/mime-db/README.md"
   ]
 }
