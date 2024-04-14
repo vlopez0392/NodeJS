@@ -36,7 +36,7 @@ However, changing the host to *facebook.com* or the protocol to *http* changes t
 
 #### Same origin policy
 
-JavaScript and your browser use the Same origin policy. The same origin policy is a security feature by your browser that restricts what it is able to load when loading pages in the internet. For instance, you might be browsing google and make request to google servers, however your browser might also request to facebook server. 
+JavaScript and your browser use the Same origin policy. The same origin policy is a security feature by your browser that restricts what it is able to load when loading pages in the internet. For instance, you might be browsing google and make request to google servers, however your browser might also request to a facebook server. 
 
 Under the same origin policy, all requests from the same origin as the page you have loaded in your browser with the https protocol are allowed. However, the browser restricts requests from different origins than the site you are currently browsing. For example, getting your friends data from facebook while making that request from google.
 
