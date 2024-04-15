@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2064efbdfb529290",
+        "id": "93170f0519b155c4",
         "type": "tabs",
         "children": [
           {
-            "id": "630cb1a9e517138e",
+            "id": "f15902d8894f4ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section8/83_Why_Express/83_Why_Express.md",
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/83_Why_Express/83_Why_Express.md",
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/83_Why_Express/83_Why_Express.md",
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/83_Why_Express/83_Why_Express.md"
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md"
               }
             }
           }
@@ -146,8 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4d814af932e325",
+  "active": "f15902d8894f4ff0",
   "lastOpenFiles": [
+    "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
+    "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+    "Section8/85_Express_vs_NextJS_Koa",
+    "Section7/78_Cross_Origin_Resource_Sharing/78_Cross_Origin_Policy.md",
+    "Section7/76_Same_Origin_Policy/76_Same_Origin_Policy.md",
+    "Section8/83_Why_Express/83_Why_Express.md",
+    "Section7/78_Cross_Origin_Resource_Sharing",
+    "Section7/79_POST_data_to_server/Untitled",
+    "Section8/express_project/server.js",
     "Section8/express_project/index.js",
     "Section8/express_project/package-lock.json",
     "Section8/express_project/node_modules/express/Readme.md",
@@ -160,11 +170,6 @@
     "Section8/express_project/node_modules/send/node_modules/ms/license.md",
     "Section8/express_project/node_modules/body-parser/package.json",
     "Section8/express_project/node_modules/express/lib/router/route.js",
-    "Section8/express_project/node_modules/express/lib/router/layer.js",
-    "Section8/express_project/node_modules/express/lib/router/index.js",
-    "Section8/express_project/node_modules/express/lib/middleware/query.js",
-    "Section8/express_project/node_modules/express/lib/middleware/init.js",
-    "Section8/express_project/node_modules/express/lib/view.js",
     "Section8/express_project/node_modules/body-parser/HISTORY.md",
     "Section8/express_project/node_modules/ipaddr.js/README.md",
     "Section8/express_project/node_modules/accepts/README.md",
@@ -179,10 +184,6 @@
     "Section8/express_project/node_modules/cookie/SECURITY.md",
     "Section8/express_project/node_modules/debug/README.md",
     "Section8/express_project/node_modules/content-type/README.md",
-    "Section8/express_project/node_modules/cookie/HISTORY.md",
-    "Section8/express_project/node_modules/content-type/HISTORY.md",
-    "Section8/express_project/node_modules/depd/Readme.md",
-    "Section8/express_project/node_modules/escape-html/Readme.md",
-    "Section8/express_project/node_modules/depd/History.md"
+    "Section8/express_project/node_modules/cookie/HISTORY.md"
   ]
 }
