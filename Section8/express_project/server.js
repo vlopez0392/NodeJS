@@ -19,7 +19,6 @@ app.post('/messages', (req, res)=>{
     console.log('Updating messages!');
 })
 
-
 app.listen(PORT, ()=> {
     console.log(`Server is listening on port ${PORT}`);
 });

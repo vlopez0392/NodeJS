@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md"
+                "file": "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md"
               }
             }
           }
@@ -149,8 +148,12 @@
   },
   "active": "f15902d8894f4ff0",
   "lastOpenFiles": [
-    "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
+    "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
+    "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
+    "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md",
     "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+    "86_",
+    "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
     "Section8/85_Express_vs_NextJS_Koa",
     "Section7/78_Cross_Origin_Resource_Sharing/78_Cross_Origin_Policy.md",
     "Section7/76_Same_Origin_Policy/76_Same_Origin_Policy.md",
@@ -169,7 +172,6 @@
     "Section8/express_project/node_modules/send/node_modules/ms/readme.md",
     "Section8/express_project/node_modules/send/node_modules/ms/license.md",
     "Section8/express_project/node_modules/body-parser/package.json",
-    "Section8/express_project/node_modules/express/lib/router/route.js",
     "Section8/express_project/node_modules/body-parser/HISTORY.md",
     "Section8/express_project/node_modules/ipaddr.js/README.md",
     "Section8/express_project/node_modules/accepts/README.md",
@@ -181,9 +183,6 @@
     "Section8/express_project/node_modules/array-flatten/README.md",
     "Section8/express_project/node_modules/cookie-signature/History.md",
     "Section8/express_project/node_modules/cookie/README.md",
-    "Section8/express_project/node_modules/cookie/SECURITY.md",
-    "Section8/express_project/node_modules/debug/README.md",
-    "Section8/express_project/node_modules/content-type/README.md",
-    "Section8/express_project/node_modules/cookie/HISTORY.md"
+    "Section8/express_project/node_modules/cookie/SECURITY.md"
   ]
 }
