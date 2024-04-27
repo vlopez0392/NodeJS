@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/89_Middleware/89_Middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/89_Middleware/89_Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/89_Middleware/89_Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md"
+                "file": "Section8/89_Middleware/89_Middleware.md"
               }
             }
           }
@@ -149,41 +148,41 @@
   },
   "active": "5d4d814af932e325",
   "lastOpenFiles": [
-    "Section8/86_Route_parameters",
-    "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
-    "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
-    "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
-    "Section7/70_Intro_to_HTTP_Responses_Requests/70_Intro_to_HTTP_Responses_Requests.md",
-    "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
-    "86_",
-    "Section8/85_Express_vs_NextJS_Koa",
-    "Section7/78_Cross_Origin_Resource_Sharing/78_Cross_Origin_Policy.md",
-    "Section7/76_Same_Origin_Policy/76_Same_Origin_Policy.md",
-    "Section8/83_Why_Express/83_Why_Express.md",
-    "Section7/78_Cross_Origin_Resource_Sharing",
-    "Section7/79_POST_data_to_server/Untitled",
-    "Section8/express_project/server.js",
-    "Section8/express_project/index.js",
-    "Section8/express_project/package-lock.json",
-    "Section8/express_project/node_modules/express/Readme.md",
-    "Section8/express_project/node_modules/express/History.md",
-    "Section8/express_project/node_modules/express/package.json",
-    "Section8/express_project/node_modules/body-parser/SECURITY.md",
-    "Section8/express_project/node_modules/express/index.js",
-    "Section8/express_project/node_modules/body-parser/README.md",
-    "Section8/express_project/node_modules/send/node_modules/ms/readme.md",
-    "Section8/express_project/node_modules/send/node_modules/ms/license.md",
-    "Section8/express_project/node_modules/body-parser/package.json",
-    "Section8/express_project/node_modules/body-parser/HISTORY.md",
-    "Section8/express_project/node_modules/ipaddr.js/README.md",
-    "Section8/express_project/node_modules/accepts/README.md",
-    "Section8/express_project/node_modules/accepts/HISTORY.md",
-    "Section8/express_project/node_modules/debug/CHANGELOG.md",
-    "Section8/express_project/node_modules/content-disposition/README.md",
-    "Section8/express_project/node_modules/cookie-signature/Readme.md",
-    "Section8/express_project/node_modules/content-disposition/HISTORY.md",
-    "Section8/express_project/node_modules/array-flatten/README.md",
-    "Section8/express_project/node_modules/cookie-signature/History.md",
-    "Section8/express_project/node_modules/cookie/README.md"
+    "Section8/91_Post_Requests_Express",
+    "Section8/untitled folder",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof/test/index.js",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof/test",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof/package.json",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof/index.js",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof/index.d.ts",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof/README.md",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof/LICENSE",
+    "Section8/90_Logging_middleware/node_modules/setprototypeof",
+    "Section8/90_Logging_middleware/node_modules/mime-db/package.json",
+    "Section8/90_Logging_middleware/node_modules/mime-db/index.js",
+    "Section8/90_Logging_middleware/node_modules/mime-db/README.md",
+    "Section8/90_Logging_middleware/node_modules/mime-db/HISTORY.md",
+    "Section8/90_Logging_middleware/node_modules/media-typer/README.md",
+    "Section8/90_Logging_middleware/node_modules/media-typer/HISTORY.md",
+    "Section8/90_Logging_middleware/node_modules/glob-parent/README.md",
+    "Section8/90_Logging_middleware/node_modules/glob-parent/CHANGELOG.md",
+    "Section8/90_Logging_middleware/node_modules/debug/README.md",
+    "Section8/90_Logging_middleware/node_modules/debug/CHANGELOG.md",
+    "Section8/90_Logging_middleware/node_modules/nopt/README.md",
+    "Section8/90_Logging_middleware/node_modules/fsevents/README.md",
+    "Section8/90_Logging_middleware/node_modules/normalize-path/README.md",
+    "Section8/90_Logging_middleware/node_modules/on-finished/README.md",
+    "Section8/90_Logging_middleware/node_modules/on-finished/HISTORY.md",
+    "Section8/90_Logging_middleware/node_modules/object-inspect/CHANGELOG.md",
+    "Section8/90_Logging_middleware/node_modules/braces/README.md",
+    "Section8/90_Logging_middleware/node_modules/braces/CHANGELOG.md",
+    "Section8/90_Logging_middleware/node_modules/finalhandler/SECURITY.md",
+    "Section8/90_Logging_middleware/node_modules/finalhandler/README.md",
+    "Section8/90_Logging_middleware/node_modules/finalhandler/HISTORY.md",
+    "Section8/90_Logging_middleware/node_modules/is-extglob/README.md",
+    "Section8/90_Logging_middleware/node_modules/send/node_modules/ms/readme.md",
+    "Section8/90_Logging_middleware/node_modules/send/node_modules/ms/license.md",
+    "Section8/90_Logging_middleware/node_modules/send/SECURITY.md",
+    "Section8/90_Logging_middleware/node_modules/send/README.md"
   ]
 }

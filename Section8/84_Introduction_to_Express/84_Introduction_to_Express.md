@@ -13,7 +13,7 @@ app.listen(PORT, ()=>{
 });
 ```
 
-Note that Node is made to write servers and if we name our file *server.js*, we do not need to write an *npm start*  script in the package.json file. 
+Note that Node is made to write servers and if we name our file *server.js*, we do not need to write an *npm start* script in the package.json file. 
 
 The power of Express comes from how easy routing is made. Express allows us to use the app object to respond to requests as follows:
 
