@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section8/89_Middleware/89_Middleware.md",
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/89_Middleware/89_Middleware.md",
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/89_Middleware/89_Middleware.md",
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/89_Middleware/89_Middleware.md"
+                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "5d4d814af932e325",
   "lastOpenFiles": [
+    "Section8/92_Model_View_Controller",
+    "Section8/91_Post_Requests_Express/Untitled",
+    "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
+    "Section8/83_Why_Express/83_Why_Express.md",
+    "Section8/90_Logging_middleware/90_Writing_Middleware.md",
+    "Section8/89_Middleware/89_Middleware.md",
     "Section8/91_Post_Requests_Express",
     "Section8/untitled folder",
     "Section8/90_Logging_middleware/node_modules/setprototypeof/test/index.js",
@@ -158,8 +164,6 @@
     "Section8/90_Logging_middleware/node_modules/setprototypeof/README.md",
     "Section8/90_Logging_middleware/node_modules/setprototypeof/LICENSE",
     "Section8/90_Logging_middleware/node_modules/setprototypeof",
-    "Section8/90_Logging_middleware/node_modules/mime-db/package.json",
-    "Section8/90_Logging_middleware/node_modules/mime-db/index.js",
     "Section8/90_Logging_middleware/node_modules/mime-db/README.md",
     "Section8/90_Logging_middleware/node_modules/mime-db/HISTORY.md",
     "Section8/90_Logging_middleware/node_modules/media-typer/README.md",
@@ -179,10 +183,6 @@
     "Section8/90_Logging_middleware/node_modules/finalhandler/SECURITY.md",
     "Section8/90_Logging_middleware/node_modules/finalhandler/README.md",
     "Section8/90_Logging_middleware/node_modules/finalhandler/HISTORY.md",
-    "Section8/90_Logging_middleware/node_modules/is-extglob/README.md",
-    "Section8/90_Logging_middleware/node_modules/send/node_modules/ms/readme.md",
-    "Section8/90_Logging_middleware/node_modules/send/node_modules/ms/license.md",
-    "Section8/90_Logging_middleware/node_modules/send/SECURITY.md",
-    "Section8/90_Logging_middleware/node_modules/send/README.md"
+    "Section8/90_Logging_middleware/node_modules/is-extglob/README.md"
   ]
 }
