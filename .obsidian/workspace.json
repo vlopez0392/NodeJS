@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md"
+                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md"
               }
             }
           }
@@ -146,24 +147,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4d814af932e325",
+  "active": "f15902d8894f4ff0",
   "lastOpenFiles": [
+    "Section8/express_project/models/friends.model.js",
+    "Section8/express_project/models",
+    "Section8/express_project/controllers/friends.controller.js",
+    "Section8/express_project/controllers/messages.controller.js",
+    "Section8/express_project/controllers",
+    "Section8/87_Postman_vs_Insomnia/87_Postman_vs_Insomnia.md",
+    "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
+    "Section8/86_Route_parameters/86_Route_Parameters.md",
+    "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
+    "Section8/83_Why_Express/83_Why_Express.md",
+    "Section7/78_Cross_Origin_Resource_Sharing/78_Cross_Origin_Policy.md",
+    "Section7/76_Same_Origin_Policy/76_Same_Origin_Policy.md",
+    "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
+    "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
+    "Section7/69_What_is_a_web_server/69_What_is_a_web_server ?.md",
+    "Section8/93_Model_View_Controller_Express",
     "Section8/92_Model_View_Controller",
     "Section8/91_Post_Requests_Express/Untitled",
     "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
-    "Section8/83_Why_Express/83_Why_Express.md",
     "Section8/90_Logging_middleware/90_Writing_Middleware.md",
     "Section8/89_Middleware/89_Middleware.md",
     "Section8/91_Post_Requests_Express",
     "Section8/untitled folder",
     "Section8/90_Logging_middleware/node_modules/setprototypeof/test/index.js",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof/test",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof/package.json",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof/index.js",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof/index.d.ts",
     "Section8/90_Logging_middleware/node_modules/setprototypeof/README.md",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof/LICENSE",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof",
     "Section8/90_Logging_middleware/node_modules/mime-db/README.md",
     "Section8/90_Logging_middleware/node_modules/mime-db/HISTORY.md",
     "Section8/90_Logging_middleware/node_modules/media-typer/README.md",
@@ -174,15 +184,6 @@
     "Section8/90_Logging_middleware/node_modules/debug/CHANGELOG.md",
     "Section8/90_Logging_middleware/node_modules/nopt/README.md",
     "Section8/90_Logging_middleware/node_modules/fsevents/README.md",
-    "Section8/90_Logging_middleware/node_modules/normalize-path/README.md",
-    "Section8/90_Logging_middleware/node_modules/on-finished/README.md",
-    "Section8/90_Logging_middleware/node_modules/on-finished/HISTORY.md",
-    "Section8/90_Logging_middleware/node_modules/object-inspect/CHANGELOG.md",
-    "Section8/90_Logging_middleware/node_modules/braces/README.md",
-    "Section8/90_Logging_middleware/node_modules/braces/CHANGELOG.md",
-    "Section8/90_Logging_middleware/node_modules/finalhandler/SECURITY.md",
-    "Section8/90_Logging_middleware/node_modules/finalhandler/README.md",
-    "Section8/90_Logging_middleware/node_modules/finalhandler/HISTORY.md",
-    "Section8/90_Logging_middleware/node_modules/is-extglob/README.md"
+    "Section8/90_Logging_middleware/node_modules/normalize-path/README.md"
   ]
 }

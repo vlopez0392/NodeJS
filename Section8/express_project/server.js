@@ -1,18 +1,8 @@
 const express = require('express');
 const app = express();
 const PORT = 3000;
-
-//Query and add to list of friends
-const friends = [
-    {
-        id:0,
-        name: 'Albert Einstein'
-    },
-    {
-        id:1,
-        name: 'Isaac Newton'
-    },
-];
+const friendsController = require('./controllers/friends.controller.js')
+const messagesController = require('./controllers/messages.controller.js')
 
 //Defining a middleware function 
 app.use((req,res,next)=>{
@@ -24,22 +14,6 @@ app.use((req,res,next)=>{
 
 app.use(express.json()); 
 
-app.post('/friends', (req,res)=>{
-    if(!req.body.name){
-        return res.status(400).json({
-            error: 'Missing friend name'
-        });
-    }
-    
-    const newFriend = {
-        name: req.body.name,
-        id: friends.length
-    };
-
-    friends.push(newFriend);
-    res.json(newFriend);
-});
-
 //Defining a route
 app.get('/', (req, res)=>{
     res.send({
@@ -48,32 +22,12 @@ app.get('/', (req, res)=>{
     });
 });
 
-app.get('/friends', (req,res) => {
-    res.json(friends);
-})
+app.post(friendsController.postFriend);
+app.get('/friends', friendsController.getFriends)
+app.get('/friends/:friendId', friendsController.getFriend);
 
-//Route parameter
-app.get('/friends/:friendId', (req, res)=> {
-    const friendId = Number(req.params.friendId);
-
-    //Validation 
-    const friend = friends[friendId];
-    if(friend){
-        res.status(200).json(friend);
-    }else{
-        res.status(404).json({
-            error: 'Friend does not exist'
-        })
-    }
-});
-
-app.get('/messages', (req, res)=>{
-    res.send('<ul><li>Hello Albert!</li></ul>')
-})
-
-app.post('/messages', (req, res)=>{
-    console.log('Updating messages!');
-})
+app.get('/messages', messagesController.getMessages)
+app.post('/messages',messagesController.postMessage)
 
 app.listen(PORT, ()=> {
     console.log(`Server is listening on port ${PORT}`);

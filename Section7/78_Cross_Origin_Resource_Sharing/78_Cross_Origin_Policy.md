@@ -1,6 +1,6 @@
 ### Cross Origin Resource Sharing (CORS)
 
-CORS allows us to relax the restrictions that the same origin policy enforces. This way, we can make applications that potentially span man y different domains and origins. Because the same origin policy generally limits us to communicate with a single origin. 
+CORS allows us to relax the restrictions that the same origin policy enforces. This way, we can make applications that potentially span many different domains and origins. Because the same origin policy generally limits us to communicate with a single origin. 
 
 What does wikipedia do when requesting resources? Wikipedia gets a lot of its media (diagrams and images) from a partner site *wikimedia.org*. Wikipedia and other websites are able to make requests to *wikimedia.org*  cross origin because it uses the following CORS header:
 
