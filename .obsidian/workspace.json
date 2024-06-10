@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
+                "file": "Section8/94_Express_Routers/94_Express_Routers.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
+                "file": "Section8/94_Express_Routers/94_Express_Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
+                "file": "Section8/94_Express_Routers/94_Express_Routers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/93_Model_View_Controller_Express/93_MVC_Express.md"
+                "file": "Section8/94_Express_Routers/94_Express_Routers.md"
               }
             }
           }
@@ -149,13 +148,18 @@
   },
   "active": "f15902d8894f4ff0",
   "lastOpenFiles": [
+    "Section8/express_project/routers/messages.router.js",
+    "Section8/express_project/routers/friends.router.js",
+    "Section8/express_project/routers",
+    "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
+    "Section8/94_Express_Routers/94_Express_Routers.md",
+    "Section8/94_Express_Routers",
     "Section8/express_project/models/friends.model.js",
     "Section8/express_project/models",
     "Section8/express_project/controllers/friends.controller.js",
     "Section8/express_project/controllers/messages.controller.js",
     "Section8/express_project/controllers",
     "Section8/87_Postman_vs_Insomnia/87_Postman_vs_Insomnia.md",
-    "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
     "Section8/86_Route_parameters/86_Route_Parameters.md",
     "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
     "Section8/83_Why_Express/83_Why_Express.md",
@@ -166,13 +170,9 @@
     "Section7/69_What_is_a_web_server/69_What_is_a_web_server ?.md",
     "Section8/93_Model_View_Controller_Express",
     "Section8/92_Model_View_Controller",
-    "Section8/91_Post_Requests_Express/Untitled",
     "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
     "Section8/90_Logging_middleware/90_Writing_Middleware.md",
     "Section8/89_Middleware/89_Middleware.md",
-    "Section8/91_Post_Requests_Express",
-    "Section8/untitled folder",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof/test/index.js",
     "Section8/90_Logging_middleware/node_modules/setprototypeof/README.md",
     "Section8/90_Logging_middleware/node_modules/mime-db/README.md",
     "Section8/90_Logging_middleware/node_modules/mime-db/HISTORY.md",
@@ -183,7 +183,6 @@
     "Section8/90_Logging_middleware/node_modules/debug/README.md",
     "Section8/90_Logging_middleware/node_modules/debug/CHANGELOG.md",
     "Section8/90_Logging_middleware/node_modules/nopt/README.md",
-    "Section8/90_Logging_middleware/node_modules/fsevents/README.md",
-    "Section8/90_Logging_middleware/node_modules/normalize-path/README.md"
+    "Section8/90_Logging_middleware/node_modules/fsevents/README.md"
   ]
 }
