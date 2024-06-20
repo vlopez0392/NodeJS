@@ -22,7 +22,7 @@ function getFriends(req, res){
 
 function getFriend(req, res){
     const friendId = Number(req.params.friendId);
-
+    
     //Validation 
     const friend = model[friendId];
     if(friend){
