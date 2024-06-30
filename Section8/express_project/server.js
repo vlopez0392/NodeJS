@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 const PORT = 3000;
+const path = require('path');
+console.log(__dirname)
 
 //Routers 
 const friendsRouter = require('./routers/friends.router.js')
@@ -15,6 +17,7 @@ app.use((req,res,next)=>{
 });
 
 app.use(express.json()); 
+app.use('/site', express.static(path.join(__dirname, 'public')));
 
 app.use('/friends', friendsRouter);
 app.use('/messages', messagesRouter)
@@ -22,5 +25,6 @@ app.use('/messages', messagesRouter)
 app.listen(PORT, ()=> {
     console.log(`Server is listening on port ${PORT}`);
 });
+
 
 

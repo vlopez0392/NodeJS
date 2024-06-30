@@ -24,4 +24,4 @@ function getMessages(req, res){
 
 Node has a global built-in variable __ *dirname* where the current JS file is located absolutely in the system. Now, if the photo is located in the public folder one level above the JS file we are writing this function from, then include  '..' as a parameter in the the *path.join( )* function with to go to the directory where the photo.jpg is located.
 
-In Postman, the photo is sent in the response and the headers set the 'Content-Type' appropriately!
+In Postman, the photo is sent in the response and the headers set the 'Content-Type' appropriately

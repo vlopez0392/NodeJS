@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93170f0519b155c4",
+        "id": "eefad10c0b17ed50",
         "type": "tabs",
         "children": [
           {
-            "id": "f15902d8894f4ff0",
+            "id": "8931d7ba53b520c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Section8/97_Sending_Files/97_Sending_Files.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.3"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/97_Sending_Files/97_Sending_Files.md",
+                "file": "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/97_Sending_Files/97_Sending_Files.md",
+                "file": "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/97_Sending_Files/97_Sending_Files.md"
+                "file": "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md"
               }
             }
           }
@@ -146,32 +144,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f15902d8894f4ff0",
+  "active": "8931d7ba53b520c3",
   "lastOpenFiles": [
+    "Section8/95_RESTful_APIs/95_RESTful APIs.md",
+    "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
+    "Section8/88_Development_Dependencies/88_Development_Dependencies.md",
+    "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
+    "Section8/express_project/public/css/style.css",
+    "Section8/express_project/public/css",
+    "Section8/express_project/public/index.html",
+    "Section8/express_project/public/images/Aqua_Coast.jpg",
+    "Section8/express_project/public/images",
+    "Section8/97_Sending_Files/97_Sending_Files.md",
+    "Section8/98_Serving_Websites_with_Node",
+    "Section8/97_Sending_Files/Untitled",
     "Section8/express_project/public/Aqua_Coast.jpg",
     "Section8/express_project/public",
-    "Section8/95_RESTful_APIs/95_RESTful APIs.md",
-    "Section8/97_Sending_Files/97_Sending_Files.md",
     "Section8/97_Sending_Files",
     "Section8/94_Express_Routers/94_Express_Routers.md",
     "Section8/95_RESTful_APIs",
     "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
     "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
     "Section8/89_Middleware/89_Middleware.md",
-    "Section8/88_Development_Dependencies/88_Development_Dependencies.md",
     "Section8/86_Route_parameters/86_Route_Parameters.md",
     "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
     "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
     "Section8/83_Why_Express/83_Why_Express.md",
     "Section7/76_Same_Origin_Policy/76_Same_Origin_Policy.md",
     "Section8/express_project/routers/messages.router.js",
-    "Section8/express_project/routers/friends.router.js",
-    "Section8/express_project/routers",
     "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
-    "Section8/94_Express_Routers",
-    "Section8/express_project/models/friends.model.js",
-    "Section8/express_project/models",
-    "Section8/express_project/controllers/friends.controller.js",
     "Section8/87_Postman_vs_Insomnia/87_Postman_vs_Insomnia.md",
     "Section7/78_Cross_Origin_Resource_Sharing/78_Cross_Origin_Policy.md",
     "Section7/69_What_is_a_web_server/69_What_is_a_web_server ?.md",
@@ -182,7 +183,6 @@
     "Section8/90_Logging_middleware/node_modules/media-typer/README.md",
     "Section8/90_Logging_middleware/node_modules/media-typer/HISTORY.md",
     "Section8/90_Logging_middleware/node_modules/glob-parent/README.md",
-    "Section8/90_Logging_middleware/node_modules/glob-parent/CHANGELOG.md",
-    "Section8/90_Logging_middleware/node_modules/debug/README.md"
+    "Section8/90_Logging_middleware/node_modules/glob-parent/CHANGELOG.md"
   ]
 }
