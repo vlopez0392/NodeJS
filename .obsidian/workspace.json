@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "eefad10c0b17ed50",
+        "id": "02a21242f3606025",
         "type": "tabs",
         "children": [
           {
-            "id": "8931d7ba53b520c3",
+            "id": "43a911b628971f76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b581dee9835bdcd",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.3"
+                "currentVersion": "1.6.5"
               }
             }
           }
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
+                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
+                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md"
+                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md"
               }
             }
           }
@@ -144,45 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8931d7ba53b520c3",
+  "active": "43a911b628971f76",
   "lastOpenFiles": [
-    "Section8/95_RESTful_APIs/95_RESTful APIs.md",
-    "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
-    "Section8/88_Development_Dependencies/88_Development_Dependencies.md",
-    "Section5/48_NPM_Node_Package_Manager/48_Node_Package_Manager.md",
-    "Section8/express_project/public/css/style.css",
-    "Section8/express_project/public/css",
-    "Section8/express_project/public/index.html",
-    "Section8/express_project/public/images/Aqua_Coast.jpg",
-    "Section8/express_project/public/images",
-    "Section8/97_Sending_Files/97_Sending_Files.md",
-    "Section8/98_Serving_Websites_with_Node",
-    "Section8/97_Sending_Files/Untitled",
-    "Section8/express_project/public/Aqua_Coast.jpg",
-    "Section8/express_project/public",
-    "Section8/97_Sending_Files",
-    "Section8/94_Express_Routers/94_Express_Routers.md",
-    "Section8/95_RESTful_APIs",
-    "Section7/71_HTTP_Requests/71_HTTP_Requests.md",
-    "Section7/72_HTTP_Responses/72_HTTP_Responses.md",
-    "Section8/89_Middleware/89_Middleware.md",
-    "Section8/86_Route_parameters/86_Route_Parameters.md",
-    "Section8/85_Express_vs_NextJS_Koa/85_Express_vs_NextJS_Koa.md",
-    "Section8/84_Introduction_to_Express/84_Introduction_to_Express.md",
-    "Section8/83_Why_Express/83_Why_Express.md",
-    "Section7/76_Same_Origin_Policy/76_Same_Origin_Policy.md",
-    "Section8/express_project/routers/messages.router.js",
-    "Section8/93_Model_View_Controller_Express/93_MVC_Express.md",
-    "Section8/87_Postman_vs_Insomnia/87_Postman_vs_Insomnia.md",
-    "Section7/78_Cross_Origin_Resource_Sharing/78_Cross_Origin_Policy.md",
-    "Section7/69_What_is_a_web_server/69_What_is_a_web_server ?.md",
-    "Section8/90_Logging_middleware/90_Writing_Middleware.md",
-    "Section8/90_Logging_middleware/node_modules/setprototypeof/README.md",
-    "Section8/90_Logging_middleware/node_modules/mime-db/README.md",
-    "Section8/90_Logging_middleware/node_modules/mime-db/HISTORY.md",
-    "Section8/90_Logging_middleware/node_modules/media-typer/README.md",
-    "Section8/90_Logging_middleware/node_modules/media-typer/HISTORY.md",
-    "Section8/90_Logging_middleware/node_modules/glob-parent/README.md",
-    "Section8/90_Logging_middleware/node_modules/glob-parent/CHANGELOG.md"
+    "Section9/NASA_PROJECT/package-lock.json",
+    "Section9/NASA_PROJECT/client/node_modules/typescript/lib/typescriptServices.d.ts",
+    "Section9/NASA_PROJECT/client/node_modules/typescript/lib/protocol.d.ts",
+    "Section9/NASA_PROJECT/client/node_modules/typescript/lib/lib.esnext.weakref.d.ts",
+    "Section9/NASA_PROJECT/client/node_modules/typescript/lib/README.md",
+    "Section9/NASA_PROJECT/client/node_modules/typescript/lib/typescriptServices.js",
+    "Section9/NASA_PROJECT/client/node_modules/typescript/lib/dynamicImportCompat.js",
+    "Section9/NASA_PROJECT/package.json",
+    "Section9/NASA_PROJECT/server/node_modules/csv-parse/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/csv-parse/package.json",
+    "Section9/NASA_PROJECT/server/node_modules/csv-parse/lib/api/CsvError.js",
+    "Section9/NASA_PROJECT/server/node_modules/csv-parse/lib/api/normalize_columns_array.js",
+    "Section9/NASA_PROJECT/server/node_modules/csv-parse/lib/utils/underscore.js",
+    "Section9/NASA_PROJECT/server/node_modules/cors/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/cors/HISTORY.md",
+    "Section9/NASA_PROJECT/server/node_modules/object-assign/readme.md",
+    "Section9/NASA_PROJECT/server/node_modules/cors/CONTRIBUTING.md",
+    "Section9/NASA_PROJECT/server/node_modules/semver/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/picomatch/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/pstree.remy/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/picomatch/CHANGELOG.md",
+    "Section9/NASA_PROJECT/server/node_modules/braces/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/undefsafe/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/minimatch/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/touch/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/is-glob/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/simple-update-notifier/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/supports-color/readme.md",
+    "Section9/NASA_PROJECT/server/node_modules/glob-parent/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/readdirp/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/is-binary-path/readme.md",
+    "Section9/NASA_PROJECT/server/node_modules/fsevents/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/glob-parent/CHANGELOG.md",
+    "Section9/NASA_PROJECT/server/node_modules/anymatch/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/normalize-path/README.md",
+    "Section9/NASA_PROJECT/server/node_modules/ignore-by-default/README.md",
+    "Section9/NASA_PROJECT/client/node_modules/psl/browserstack-logo.svg",
+    "Section9/NASA_PROJECT/client/node_modules/renderkid/docs/images/usage.png",
+    "Section9/NASA_PROJECT/client/node_modules/renderkid/docs/images/display.png",
+    "Section9/NASA_PROJECT/client/node_modules/renderkid/docs/images/bullets-1.png",
+    "Section9/NASA_PROJECT/client/node_modules/serve-index/public/icons/page_world.png",
+    "Section9/NASA_PROJECT/client/node_modules/serve-index/public/icons/page_word.png",
+    "Section9/NASA_PROJECT/client/node_modules/serve-index/public/icons/page_white_zip.png",
+    "Section9/NASA_PROJECT/client/node_modules/serve-index/public/icons/page_white_wrench.png",
+    "Section9/NASA_PROJECT/client/node_modules/serve-index/public/icons/page_white_world.png",
+    "Section9/NASA_PROJECT/client/node_modules/serve-index/public/icons/page_white_word.png"
   ]
 }
