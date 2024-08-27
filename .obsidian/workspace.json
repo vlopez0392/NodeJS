@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md",
+                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0b581dee9835bdcd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
               }
             }
           }
@@ -79,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md",
+                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md",
+                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section9/107_API_Server_setup/107_API_Server_setup.md"
+                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md"
               }
             }
           }
@@ -158,42 +149,42 @@
   },
   "active": "43a911b628971f76",
   "lastOpenFiles": [
-    "Section9/NASA_PROJECT/server/src/models/launches.model.js",
-    "Section9/NASA_PROJECT/server/public/asset-manifest.json",
-    "Section9/NASA_PROJECT/server/public/index.html",
-    "Section9/NASA_PROJECT/server/public/static/js/main.9b019759.js.map",
-    "Section9/NASA_PROJECT/server/public/static/js/main.9b019759.js.LICENSE.txt",
-    "Section9/NASA_PROJECT/server/public/static/js/main.9b019759.js",
-    "Section9/NASA_PROJECT/server/public/static/js",
-    "Section9/NASA_PROJECT/server/public/static",
-    "Section9/NASA_PROJECT/server/node_modules/morgan/node_modules/on-finished/LICENSE",
-    "Section9/NASA_PROJECT/server/node_modules/morgan/node_modules/on-finished/index.js",
-    "Section9/NASA_PROJECT/server/node_modules/morgan/node_modules/on-finished/package.json",
-    "Section9/NASA_PROJECT/server/node_modules/morgan/node_modules/on-finished/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/morgan/node_modules/on-finished/HISTORY.md",
-    "Section9/NASA_PROJECT/server/node_modules/morgan/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/morgan/HISTORY.md",
-    "Section9/NASA_PROJECT/server/node_modules/basic-auth/node_modules/safe-buffer/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/basic-auth/HISTORY.md",
-    "Section9/NASA_PROJECT/server/node_modules/basic-auth/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/on-headers/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/on-headers/HISTORY.md",
-    "Section9/NASA_PROJECT/node_modules/safe-buffer/README.md",
-    "Section9/NASA_PROJECT/node_modules/on-headers/README.md",
-    "Section9/NASA_PROJECT/node_modules/on-headers/HISTORY.md",
-    "Section9/NASA_PROJECT/node_modules/on-finished/README.md",
-    "Section9/NASA_PROJECT/node_modules/on-finished/HISTORY.md",
-    "Section9/NASA_PROJECT/node_modules/ms/readme.md",
-    "Section9/NASA_PROJECT/node_modules/ms/license.md",
-    "Section9/NASA_PROJECT/node_modules/morgan/README.md",
-    "Section9/NASA_PROJECT/node_modules/morgan/HISTORY.md",
-    "Section9/NASA_PROJECT/node_modules/ee-first/README.md",
-    "Section9/NASA_PROJECT/node_modules/depd/Readme.md",
-    "Section9/NASA_PROJECT/node_modules/depd/History.md",
-    "Section9/NASA_PROJECT/node_modules/debug/README.md",
-    "Section9/NASA_PROJECT/node_modules/debug/CHANGELOG.md",
-    "Section9/NASA_PROJECT/node_modules/basic-auth/README.md",
-    "Section9/NASA_PROJECT/node_modules/basic-auth/HISTORY.md",
+    "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
+    "Section12/137_Node_server_performance/137_Node_server_performance.md",
+    "Section12/138_Simple_Blocking_server/138_Simple Blocking Server.md",
+    "Section12/139_Real_life_blocking_functions",
+    "Section12/138_Simple_Blocking_server/server.js",
+    "Section12/133_Simple_Blocking_server/133_Simple_blocking_server",
+    "Section12/138_Simple_Blocking_server/package-lock.json",
+    "Section12/138_Simple_Blocking_server/node_modules/object-inspect/CHANGELOG.md",
+    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/streams.js",
+    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/index.js",
+    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/index.d.ts",
+    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/extend-node.js",
+    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/bom-handling.js",
+    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib",
+    "Section12/138_Simple_Blocking_server/node_modules/qs/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/express/History.md",
+    "Section12/138_Simple_Blocking_server/node_modules/express/Readme.md",
+    "Section12/138_Simple_Blocking_server/node_modules/qs/CHANGELOG.md",
+    "Section12/138_Simple_Blocking_server/node_modules/qs/LICENSE.md",
+    "Section12/138_Simple_Blocking_server/node_modules/mime-db/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/body-parser/SECURITY.md",
+    "Section12/138_Simple_Blocking_server/node_modules/es-errors/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/has-symbols/CHANGELOG.md",
+    "Section12/138_Simple_Blocking_server/node_modules/es-errors/CHANGELOG.md",
+    "Section12/138_Simple_Blocking_server/node_modules/body-parser/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/body-parser/HISTORY.md",
+    "Section12/138_Simple_Blocking_server/node_modules/has-symbols/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/mime-db/HISTORY.md",
+    "Section12/138_Simple_Blocking_server/node_modules/define-data-property/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/function-bind/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/get-intrinsic/README.md",
+    "Section12/138_Simple_Blocking_server/node_modules/function-bind/CHANGELOG.md",
+    "Section12/138_Simple_Blocking_server/node_modules/send/SECURITY.md",
+    "Section12/138_Simple_Blocking_server/node_modules/side-channel/CHANGELOG.md",
+    "Section12/138_Simple_Blocking_server/node_modules/debug/CHANGELOG.md",
+    "Section12/138_Simple_Blocking_server/node_modules/call-bind/CHANGELOG.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",
