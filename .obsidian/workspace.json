@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
+                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
+                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
+                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md"
+                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md"
               }
             }
           }
@@ -149,42 +149,42 @@
   },
   "active": "43a911b628971f76",
   "lastOpenFiles": [
-    "Section12/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
-    "Section12/137_Node_server_performance/137_Node_server_performance.md",
-    "Section12/138_Simple_Blocking_server/138_Simple Blocking Server.md",
-    "Section12/139_Real_life_blocking_functions",
-    "Section12/138_Simple_Blocking_server/server.js",
-    "Section12/133_Simple_Blocking_server/133_Simple_blocking_server",
-    "Section12/138_Simple_Blocking_server/package-lock.json",
-    "Section12/138_Simple_Blocking_server/node_modules/object-inspect/CHANGELOG.md",
-    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/streams.js",
-    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/index.js",
-    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/index.d.ts",
-    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/extend-node.js",
-    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib/bom-handling.js",
-    "Section12/138_Simple_Blocking_server/node_modules/iconv-lite/lib",
-    "Section12/138_Simple_Blocking_server/node_modules/qs/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/express/History.md",
-    "Section12/138_Simple_Blocking_server/node_modules/express/Readme.md",
-    "Section12/138_Simple_Blocking_server/node_modules/qs/CHANGELOG.md",
-    "Section12/138_Simple_Blocking_server/node_modules/qs/LICENSE.md",
-    "Section12/138_Simple_Blocking_server/node_modules/mime-db/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/body-parser/SECURITY.md",
-    "Section12/138_Simple_Blocking_server/node_modules/es-errors/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/has-symbols/CHANGELOG.md",
-    "Section12/138_Simple_Blocking_server/node_modules/es-errors/CHANGELOG.md",
-    "Section12/138_Simple_Blocking_server/node_modules/body-parser/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/body-parser/HISTORY.md",
-    "Section12/138_Simple_Blocking_server/node_modules/has-symbols/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/mime-db/HISTORY.md",
-    "Section12/138_Simple_Blocking_server/node_modules/define-data-property/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/function-bind/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/get-intrinsic/README.md",
-    "Section12/138_Simple_Blocking_server/node_modules/function-bind/CHANGELOG.md",
-    "Section12/138_Simple_Blocking_server/node_modules/send/SECURITY.md",
-    "Section12/138_Simple_Blocking_server/node_modules/side-channel/CHANGELOG.md",
-    "Section12/138_Simple_Blocking_server/node_modules/debug/CHANGELOG.md",
-    "Section12/138_Simple_Blocking_server/node_modules/call-bind/CHANGELOG.md",
+    "Section12/141_Node_Cluster_Module/141_Node_Cluster_Module.md",
+    "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/test/index.js",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/test",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/package.json",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/index.js",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/index.d.ts",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/LICENSE",
+    "Section12/142_Clustering_In_Action/node_modules/setprototypeof",
+    "Section12/142_Clustering_In_Action/node_modules/mime-db/index.js",
+    "Section12/142_Clustering_In_Action/node_modules/mime-db/LICENSE",
+    "Section12/142_Clustering_In_Action/node_modules/mime-db/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/mime-db/package.json",
+    "Section12/142_Clustering_In_Action/node_modules/mime-db/HISTORY.md",
+    "Section12/142_Clustering_In_Action/node_modules/media-typer/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/media-typer/HISTORY.md",
+    "Section12/142_Clustering_In_Action/node_modules/debug/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/debug/CHANGELOG.md",
+    "Section12/142_Clustering_In_Action/node_modules/on-finished/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/on-finished/HISTORY.md",
+    "Section12/142_Clustering_In_Action/node_modules/object-inspect/CHANGELOG.md",
+    "Section12/142_Clustering_In_Action/node_modules/finalhandler/SECURITY.md",
+    "Section12/142_Clustering_In_Action/node_modules/finalhandler/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/finalhandler/HISTORY.md",
+    "Section12/142_Clustering_In_Action/node_modules/send/node_modules/ms/readme.md",
+    "Section12/142_Clustering_In_Action/node_modules/send/node_modules/ms/license.md",
+    "Section12/142_Clustering_In_Action/node_modules/send/SECURITY.md",
+    "Section12/142_Clustering_In_Action/node_modules/send/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/send/HISTORY.md",
+    "Section12/142_Clustering_In_Action/node_modules/etag/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/etag/HISTORY.md",
+    "Section12/142_Clustering_In_Action/node_modules/parseurl/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/parseurl/HISTORY.md",
+    "Section12/142_Clustering_In_Action/node_modules/statuses/README.md",
+    "Section12/142_Clustering_In_Action/node_modules/statuses/HISTORY.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",

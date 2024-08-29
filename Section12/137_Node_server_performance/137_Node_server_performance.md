@@ -6,7 +6,6 @@ We will be focusing on how to improve the performance of our node application. F
 Node servers normally take in requests and process them in the event loop, sending back the response to the browser. This all happens in one thread. The node server, JS code and the server we are running are all in one thread. 
 
 This implies that one line of code is run at the time processing one request at any point in time. This event loop is generally pretty good at juggling multiple requests and avoiding blocks. 
-
 #### Node Model Internals 
 
 Node makes use of the OS thread pool by passing IO tasks that take a long time to complete. Long running tasks are passed to the thread pool such that no blocking occurs. 
