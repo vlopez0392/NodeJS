@@ -35,4 +35,4 @@ The Node HTTP server knows to divide incoming requests between the different wor
 console.log(`Process id: ${process.pid}`)
 ```
 
-Note that the code running in the workers is the same as the code in the master process. 
+Note that the code running in the workers is the same as the code in the master process. We can call the timer endpoint twice and observe that no blocking occurs (both requests take around 9 seconds). Note that we must disable the cache such that the request's response is not cached and not used for both requests.

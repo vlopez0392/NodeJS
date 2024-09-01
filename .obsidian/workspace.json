@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02a21242f3606025",
+        "id": "8ee6e35b442033b3",
         "type": "tabs",
         "children": [
           {
-            "id": "43a911b628971f76",
+            "id": "ef9fe7e1d083a562",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
+                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
+                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
+                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md"
+                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md"
               }
             }
           }
@@ -147,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43a911b628971f76",
+  "active": "ef9fe7e1d083a562",
   "lastOpenFiles": [
-    "Section12/141_Node_Cluster_Module/141_Node_Cluster_Module.md",
-    "Section12/142_Clustering_In_Action/142_Clustering_In_Action.md",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/test/index.js",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/test",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/package.json",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/index.js",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/index.d.ts",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof/LICENSE",
-    "Section12/142_Clustering_In_Action/node_modules/setprototypeof",
-    "Section12/142_Clustering_In_Action/node_modules/mime-db/index.js",
-    "Section12/142_Clustering_In_Action/node_modules/mime-db/LICENSE",
-    "Section12/142_Clustering_In_Action/node_modules/mime-db/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/mime-db/package.json",
-    "Section12/142_Clustering_In_Action/node_modules/mime-db/HISTORY.md",
-    "Section12/142_Clustering_In_Action/node_modules/media-typer/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/media-typer/HISTORY.md",
-    "Section12/142_Clustering_In_Action/node_modules/debug/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/debug/CHANGELOG.md",
-    "Section12/142_Clustering_In_Action/node_modules/on-finished/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/on-finished/HISTORY.md",
-    "Section12/142_Clustering_In_Action/node_modules/object-inspect/CHANGELOG.md",
-    "Section12/142_Clustering_In_Action/node_modules/finalhandler/SECURITY.md",
-    "Section12/142_Clustering_In_Action/node_modules/finalhandler/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/finalhandler/HISTORY.md",
-    "Section12/142_Clustering_In_Action/node_modules/send/node_modules/ms/readme.md",
-    "Section12/142_Clustering_In_Action/node_modules/send/node_modules/ms/license.md",
-    "Section12/142_Clustering_In_Action/node_modules/send/SECURITY.md",
-    "Section12/142_Clustering_In_Action/node_modules/send/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/send/HISTORY.md",
-    "Section12/142_Clustering_In_Action/node_modules/etag/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/etag/HISTORY.md",
-    "Section12/142_Clustering_In_Action/node_modules/parseurl/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/parseurl/HISTORY.md",
-    "Section12/142_Clustering_In_Action/node_modules/statuses/README.md",
-    "Section12/142_Clustering_In_Action/node_modules/statuses/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/logs.txt",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test/index.js",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/package.json",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/index.js",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/index.d.ts",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/LICENSE",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/package.json",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/index.js",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/db.json",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/media-typer/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/media-typer/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/debug/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/debug/CHANGELOG.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/on-finished/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/on-finished/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/object-inspect/CHANGELOG.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/finalhandler/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/finalhandler/SECURITY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/finalhandler/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/node_modules/ms/readme.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/node_modules/ms/license.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/SECURITY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/etag/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/etag/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/parseurl/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/parseurl/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/statuses/README.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/statuses/HISTORY.md",
+    "Section12/147_Managing_Live_Clusters_PM2/node_modules/escape-html/Readme.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",

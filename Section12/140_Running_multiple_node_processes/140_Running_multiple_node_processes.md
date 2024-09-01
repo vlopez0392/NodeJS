@@ -9,7 +9,7 @@ In Node, however, we run multiple Node processes concurrently and share the load
 
 #### Concurrent Node Model 
 
-With servers, the work we take in is in the form of requests. Instead of handling each request in a single Node Js server in one node process we can instead spread those requests in multiple Node Js processes and respond in the same way. 
+With servers, the work we take in is in the form of requests. Instead of handling each request in a single Node JS server in one node process we can instead spread those requests in multiple Node JS processes and respond in the same way. 
 
 Each process contains a copy that run concurrently and multiple requests can be handled by each process separately. In the case we have more requests than processes, then we still can distribute the request load equally and more effectively amongst the processes instead of relying on a single process. 
 
