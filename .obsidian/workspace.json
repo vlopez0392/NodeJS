@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md",
+                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md",
+                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md",
+                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section12/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md"
+                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md"
               }
             }
           }
@@ -149,42 +148,42 @@
   },
   "active": "ef9fe7e1d083a562",
   "lastOpenFiles": [
-    "Section12/147_Managing_Live_Clusters_PM2/logs.txt",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test/index.js",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/package.json",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/index.js",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/index.d.ts",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/LICENSE",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/package.json",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/index.js",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/db.json",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/mime-db/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/media-typer/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/media-typer/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/debug/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/debug/CHANGELOG.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/on-finished/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/on-finished/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/object-inspect/CHANGELOG.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/finalhandler/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/finalhandler/SECURITY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/finalhandler/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/node_modules/ms/readme.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/node_modules/ms/license.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/SECURITY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/send/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/etag/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/etag/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/parseurl/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/parseurl/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/statuses/README.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/statuses/HISTORY.md",
-    "Section12/147_Managing_Live_Clusters_PM2/node_modules/escape-html/Readme.md",
+    "Section12/152_Intro_to_DB/152_Introduction_to_DB.md",
+    "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
+    "Section12/154_Comparing_NoSQL_SQL",
+    "Section11/150_Worker_threads/150_Worker_Threads.md",
+    "Section12/152_Intro_to_DB",
+    "Section11/147_Managing_Live_Clusters_PM2/147_Managing_Live_clusters_PM2.md",
+    "Section11/146_Using_PM2_to_create_Clusters/146_Using_PM2_Cluster_Creation.md",
+    "Section11/148_Zero_downtime_restart/148_Zero_downtime_restart.md",
+    "Section11/145_The_PM2_Tool/145_The PM2 tool.md",
+    "Section11/144_Load_Balancing/144_Load_Balancing.md",
+    "Section11/143_Maximizing_cluster_performance/143_Maximizing_Cluster_Performance.md",
+    "Section11/142_Clustering_In_Action/142_Clustering_In_Action.md",
+    "Section11/141_Node_Cluster_Module/141_Node_Cluster_Module.md",
+    "Section11/140_Running_multiple_node_processes/140_Running_multiple_node_processes.md",
+    "Section11/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
+    "Section11/138_Simple_Blocking_server/138_Simple Blocking Server.md",
+    "Section11/137_Node_server_performance/137_Node_server_performance.md",
+    "Section11/151_Worker_threads_in_action/151_Worker_Threads_In_Action.md",
+    "Section12",
+    "Section11/151_Worker_threads_in_action/threads.js",
+    "Section11/151_Worker_threads_in_action",
+    "Section11/150_Worker_threads",
+    "Section11/148_Zero_downtime_restart",
+    "Section11/147_Managing_Live_Clusters_PM2/logs.txt",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test/index.js",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/README.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/mime-db/README.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/mime-db/HISTORY.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/media-typer/HISTORY.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/media-typer/README.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/debug/README.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/debug/CHANGELOG.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/on-finished/README.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/on-finished/HISTORY.md",
+    "Section11/147_Managing_Live_Clusters_PM2/node_modules/object-inspect/CHANGELOG.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",

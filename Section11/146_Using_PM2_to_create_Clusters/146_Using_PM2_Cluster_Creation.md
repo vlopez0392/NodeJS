@@ -44,7 +44,7 @@ pm2 start server.js -i 2
 pm2 start server.js -i max
 ```
 
-To see the logs in our server we can use the *logs* command to get a real-time view of what is being logged in our server now.  The -lines flag with 200 shows the last 200 logs. For instance, we can log when our master process was restarted. PM2 is able to save these logs to a file if required. This way we avoid overwhelming the server with large log files.
+To see the logs in our server we can use the *logs* command to get a real-time view of what is being logged in our server now.  The *-lines* flag with 200 as a parameter shows the last 200 logs. For instance, we can log when our master process was restarted. PM2 is able to save these logs to a file if required. This way we avoid overwhelming the server with large log files.
 
 ```bash 
 pm2 logs -lines 200 
