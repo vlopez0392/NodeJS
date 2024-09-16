@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
+                "file": "Section12/159_Setting_MongoDB_Atlas/159_Setting_MongoDB_Atlas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
+                "file": "Section12/159_Setting_MongoDB_Atlas/159_Setting_MongoDB_Atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
+                "file": "Section12/159_Setting_MongoDB_Atlas/159_Setting_MongoDB_Atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md"
+                "file": "Section12/159_Setting_MongoDB_Atlas/159_Setting_MongoDB_Atlas.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "ef9fe7e1d083a562",
   "lastOpenFiles": [
-    "Section12/152_Intro_to_DB/152_Introduction_to_DB.md",
+    "Section12/158_Schemas_References_ACID/158_Schemas_References_ACID_transactions.md",
+    "Section12/159_Setting_MongoDB_Atlas/159_Setting_MongoDB_Atlas.md",
+    "Section12/159_Setting_MongoDB_Atlas",
+    "Section12/156_Choosing_a_DB_NASA/155_Choosing_a_DB_NASA.md",
     "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
+    "Section12/157_SQL_vs_MongoDB/157_SQL_vs_MongoDB.md",
+    "Section12/155_Schemas_Schemaless_DBs/155_DB_schemas_Schemaless_DBs.md",
+    "Section12/158_Schemas_References_ACID",
+    "Section12/157_SQL_vs_MongoDB",
+    "Section12/156_Choosing_a_DB_NASA/Untitled",
+    "Section12/156_Choosing_a_DB_NASA",
+    "Section12/155_Schemas_Schemaless_DBs",
+    "Section12/154_Comparing_NoSQL_SQL/Untitled",
+    "Section12/152_Intro_to_DB/152_Introduction_to_DB.md",
     "Section12/154_Comparing_NoSQL_SQL",
     "Section11/150_Worker_threads/150_Worker_Threads.md",
     "Section12/152_Intro_to_DB",
@@ -167,23 +179,11 @@
     "Section11/137_Node_server_performance/137_Node_server_performance.md",
     "Section11/151_Worker_threads_in_action/151_Worker_Threads_In_Action.md",
     "Section12",
-    "Section11/151_Worker_threads_in_action/threads.js",
-    "Section11/151_Worker_threads_in_action",
-    "Section11/150_Worker_threads",
-    "Section11/148_Zero_downtime_restart",
-    "Section11/147_Managing_Live_Clusters_PM2/logs.txt",
-    "Section11/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test/index.js",
-    "Section11/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/test",
     "Section11/147_Managing_Live_Clusters_PM2/node_modules/setprototypeof/README.md",
     "Section11/147_Managing_Live_Clusters_PM2/node_modules/mime-db/README.md",
     "Section11/147_Managing_Live_Clusters_PM2/node_modules/mime-db/HISTORY.md",
     "Section11/147_Managing_Live_Clusters_PM2/node_modules/media-typer/HISTORY.md",
     "Section11/147_Managing_Live_Clusters_PM2/node_modules/media-typer/README.md",
-    "Section11/147_Managing_Live_Clusters_PM2/node_modules/debug/README.md",
-    "Section11/147_Managing_Live_Clusters_PM2/node_modules/debug/CHANGELOG.md",
-    "Section11/147_Managing_Live_Clusters_PM2/node_modules/on-finished/README.md",
-    "Section11/147_Managing_Live_Clusters_PM2/node_modules/on-finished/HISTORY.md",
-    "Section11/147_Managing_Live_Clusters_PM2/node_modules/object-inspect/CHANGELOG.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",
