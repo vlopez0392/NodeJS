@@ -31,10 +31,23 @@ function addNewLaunch(launch){
 }
 
 function getAllLaunches(){
-    return Array.from(launches.values())
+    return Array.from(launches.values());
+}
+
+function existsLaunchWithId(launchId){
+    return launches.has(launchId);
+}
+
+function abortLaunchbyId(launchId){
+    const aborted = launches.get(launchId); //This data might still be useful so we just mark it. 
+    aborted.upcoming = false; 
+    aborted.success = false; 
+    return aborted;
 }
 
 module.exports = {
     getAllLaunches,
     addNewLaunch,
+    existsLaunchWithId,
+    abortLaunchbyId,
 }
