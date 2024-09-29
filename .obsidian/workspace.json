@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section12/160_Connecting_to_MongoDB/160_Connecting_MongoDB.md",
+                "file": "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section12/160_Connecting_to_MongoDB/160_Connecting_MongoDB.md",
+                "file": "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section12/160_Connecting_to_MongoDB/160_Connecting_MongoDB.md",
+                "file": "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section12/160_Connecting_to_MongoDB/160_Connecting_MongoDB.md"
+                "file": "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md"
               }
             }
           }
@@ -148,20 +148,26 @@
   },
   "active": "ef9fe7e1d083a562",
   "lastOpenFiles": [
+    "Section12/162_Mongoose/162_Mongoose.md",
+    "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md",
+    "Section12/163_Creating_Mongoose_schemas/163_Mongoose_schemas.md",
+    "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md",
+    "Section12/166_Creating_models_from_schemas",
+    "Section9/NASA_PROJECT/server/src/models/planets.mongo.js",
+    "Section12/164_Exercise_Schema_planets",
+    "Section9/NASA_PROJECT/server/src/models/launches.mongo.js",
+    "Section12/163_Creating_Mongoose_schemas",
+    "Section12/158_Schemas_References_ACID/158_Schemas_References_ACID_transactions.md",
+    "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
+    "Section12/160_Connecting_to_MongoDB/160_Connecting_MongoDB.md",
     "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
     "Section12/162_Mongoose",
     "Section9/NASA_PROJECT/server/node_modules/mongodb/src/resource_management.ts",
     "Section9/NASA_PROJECT/server/node_modules/mongodb/src/operations/client_bulk_write/common.ts",
     "Section9/NASA_PROJECT/server/node_modules/mongodb/src/operations/client_bulk_write/command_builder.ts",
     "Section9/NASA_PROJECT/server/node_modules/mongodb/src/operations/client_bulk_write",
-    "Section9/NASA_PROJECT/server/node_modules/mongodb/lib/beta.d.ts",
-    "Section9/NASA_PROJECT/server/node_modules/mongodb/src/beta.ts",
-    "Section9/NASA_PROJECT/server/node_modules/mongodb/lib/resource_management.js.map",
-    "Section9/NASA_PROJECT/server/node_modules/mongodb/lib/beta.js.map",
-    "Section9/NASA_PROJECT/server/node_modules/mongodb/lib/resource_management.js",
     "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/mongodb/README.md",
     "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/mongodb/LICENSE.md",
-    "Section12/160_Connecting_to_MongoDB/160_Connecting_MongoDB.md",
     "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/ms/readme.md",
     "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/ms/license.md",
     "Section9/NASA_PROJECT/server/node_modules/mongoose/lib/drivers/SPEC.md",
@@ -178,12 +184,6 @@
     "Section9/NASA_PROJECT/server/node_modules/@types/whatwg-url/README.md",
     "Section9/NASA_PROJECT/server/node_modules/@types/webidl-conversions/README.md",
     "Section9/NASA_PROJECT/server/node_modules/tr46/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/tr46/LICENSE.md",
-    "Section9/NASA_PROJECT/server/node_modules/bson/vendor/text-encoding/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/bson/vendor/text-encoding/LICENSE.md",
-    "Section9/NASA_PROJECT/server/node_modules/bson/vendor/base64/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/bson/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/bson/LICENSE.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",

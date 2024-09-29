@@ -1,3 +1,5 @@
+//const launches = require('./launches.mongo');
+
 const launches = new Map()
 
 //Hard-coded based on the object below. Can be improved.
