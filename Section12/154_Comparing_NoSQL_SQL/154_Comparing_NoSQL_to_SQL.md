@@ -30,7 +30,7 @@ In some NoSQL DBs like MongoDB, data is organized into collections of documents.
 
 SQL is the query language that all SQL DBs share. The query language is similar to a programming language we use to query data from a database. All SQL DBs share similar query languages. 
 
-NoSQL often have their own specialized syntax of talking to the DB and to query for certain types of data. NoSQL DBs are specialized for certain tasks and their languages are customized for specifically for what the DB was designed for. MongoDB for instance was designed work easily with documents and allow horizontal scalability. 
+NoSQL often have their own specialized syntax of talking to the DB and to query for certain types of data. NoSQL DBs are specialized for certain tasks and their languages are customized for specifically for what the DB was designed for. MongoDB for instance was designed to work easily with documents and allow horizontal scalability. 
 
 ##### Scalability 
 

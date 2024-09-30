@@ -5,7 +5,6 @@ const app = require('./app')
 const {loadPlanetsData} = require('./models/planets.model')
 
 const PORT = process.env.PORT || 8000 
-
 const server = http.createServer(app);
 
 mongoose.connection.once('open', () => {
@@ -18,8 +17,8 @@ mongoose.connection.on('error', (err) => {
 
 async function startServer(){
     const MONGO_URL = await getAPIkey();
-    await loadPlanetsData();
     await mongoose.connect(MONGO_URL);
+    await loadPlanetsData();
 
     server.listen(PORT, ()=>{
         console.log(`Listening on port ${PORT}`)

@@ -36,7 +36,7 @@ These options above are options of the mongoDB driver that mongoose uses to conn
 
 --- 
 
-How do check that our connection is working? The mongoose object exposes the event emitter *connection* that emits a successful connection event  when the connection has succeeded or an error when the connection to the db has failed. 
+How do check that our connection is working? The mongoose object exposes the event emitter *connection* that emits a successful connection event  when the connection has succeeded or an error when the connection to the DB has failed. 
 
 ```js
 mongoose.connection.once('open', () => {
