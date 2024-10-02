@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section12/170_The_upsert_operation/170_The_upsert_operation.md",
+                "file": "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section12/170_The_upsert_operation/170_The_upsert_operation.md",
+                "file": "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section12/170_The_upsert_operation/170_The_upsert_operation.md",
+                "file": "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section12/170_The_upsert_operation/170_The_upsert_operation.md"
+                "file": "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md"
               }
             }
           }
@@ -149,15 +148,29 @@
   },
   "active": "ef9fe7e1d083a562",
   "lastOpenFiles": [
-    "Section12/169_Finding_Documents/169_Finding_Documents.md",
+    "Section9/NASA_PROJECT/server/public/asset-manifest.json",
+    "Section9/NASA_PROJECT/server/public/index.html",
+    "Section9/NASA_PROJECT/server/public/static/js/main.b3e55f18.js.map",
+    "Section9/NASA_PROJECT/server/public/static/js/main.b3e55f18.js.LICENSE.txt",
+    "Section9/NASA_PROJECT/server/public/static/js/main.b3e55f18.js",
+    "Section9/NASA_PROJECT/server/public/static/js",
+    "Section9/NASA_PROJECT/server/public/static",
+    "Section12/173_Object_ID/173_Object_ID.md",
+    "Section12/171_Exploring_data_using_Atlas/171_Exploring_Data_using_Atlas.md",
+    "Section12/173_Object_ID",
+    "Section12/171_Exploring_data_using_Atlas/Untitled",
+    "Section9/106_React_JS_frontend_walkthrough/106_React_JS_Frontend_Walkthrough.md",
+    "Section9/107_API_Server_setup/107_API_Server_setup.md",
     "Section12/170_The_upsert_operation/170_The_upsert_operation.md",
-    "Section12/170_The_upsert_operation",
+    "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md",
+    "Section12/167_Mongoose_MVC_models/167_Mongoose_vs_MVC_models.md",
+    "Section12/171_Exploring_data_using_Atlas",
+    "Section12/169_Finding_Documents/169_Finding_Documents.md",
     "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
     "Section12/155_Schemas_Schemaless_DBs/155_DB_schemas_Schemaless_DBs.md",
     "Section12/156_Choosing_a_DB_NASA/155_Choosing_a_DB_NASA.md",
     "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md",
     "Section12/168_Creating_Inserting_Documents/168_Creating_Inserting_Documents.md",
-    "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md",
     "Section12/163_Creating_Mongoose_schemas/163_Mongoose_schemas.md",
     "Section12/162_Mongoose/162_Mongoose.md",
     "Section12/160_Connecting_to_MongoDB/160_Connecting_MongoDB.md",
@@ -165,26 +178,11 @@
     "Section12/158_Schemas_References_ACID/158_Schemas_References_ACID_transactions.md",
     "Section12/157_SQL_vs_MongoDB/157_SQL_vs_MongoDB.md",
     "Section12/152_Intro_to_DB/152_Introduction_to_DB.md",
-    "Section12/169_Finding_Documents",
     "Section12/Untitled.md",
     "Section11/144_Load_Balancing/144_Load_Balancing.md",
     "Section11/143_Maximizing_cluster_performance/143_Maximizing_Cluster_Performance.md",
     "Section11/142_Clustering_In_Action/142_Clustering_In_Action.md",
     "Section11/139_Real_life_blocking_functions/139_Real_life_blocking_functions.md",
-    "Section12/167_Mongoose_MVC_models/167_Mongoose_vs_MVC_models.md",
-    "Section12/168_Creating_Inserting_Documents",
-    "Section12/167_Mongoose_MVC_models",
-    "Section12/166_Creating_models_from_schemas",
-    "Section9/NASA_PROJECT/server/src/models/planets.mongo.js",
-    "Section12/164_Exercise_Schema_planets",
-    "Section9/NASA_PROJECT/server/src/models/launches.mongo.js",
-    "Section12/163_Creating_Mongoose_schemas",
-    "Section8/98_Serving_Websites_with_Node/98_Serving_websites.md",
-    "Section12/162_Mongoose",
-    "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/mongodb/README.md",
-    "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/mongodb/LICENSE.md",
-    "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/ms/readme.md",
-    "Section9/NASA_PROJECT/server/node_modules/mongoose/node_modules/ms/license.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",

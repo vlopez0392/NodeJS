@@ -35,6 +35,7 @@ function loadPlanetsData(){
 }
 
 async function getAllPlanets(){
+  console.log(planets.find({}));
   return await planets.find({});
 }
 
