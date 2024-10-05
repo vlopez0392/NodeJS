@@ -1,4 +1,5 @@
-//const launches = require('./launches.mongo');
+const launchesDB = require('./launches.mongo');
+const planets = require('./planets.mongo');
 
 const launches = new Map()
 
@@ -10,7 +11,7 @@ const launch = {
     mission: 'Exploration',
     rocket: 'Kepler 3',
     launchDate: new Date('December 27, 2030'),
-    target: 'Kepler-442 b',
+    target: 'Kepler-1652 b',
     customers: ['NASA', 'Vick'],
     upcoming: true,
     success: true,
@@ -18,6 +19,7 @@ const launch = {
 
 launches.set(launch.flightNumber, launch);
 
+//Add new launches 
 function addNewLaunch(launch){
     latestFlightNumber++;
     launches.set(
@@ -32,10 +34,29 @@ function addNewLaunch(launch){
     );
 }
 
-function getAllLaunches(){
-    return Array.from(launches.values());
+async function getAllLaunches(){
+    return await launchesDB.find({}, {'__v':0, '_id':0});
 }
 
+async function saveLaunch(launch){
+	const planet = await planets.findOne({
+		keplerName: launch.target,
+	});
+	
+	if(!planet){
+		throw new Error('No matching planet found!')
+	}
+
+	await launchesDB.updateOne({
+		flightNumber: launch.flightNumber,
+	},launch,{
+		upsert: true,
+	});
+}
+
+saveLaunch(launch);
+
+//Abort launches
 function existsLaunchWithId(launchId){
     return launches.has(launchId);
 }
@@ -53,3 +74,5 @@ module.exports = {
     existsLaunchWithId,
     abortLaunchbyId,
 }
+
+
