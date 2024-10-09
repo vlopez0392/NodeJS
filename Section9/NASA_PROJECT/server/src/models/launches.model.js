@@ -1,37 +1,17 @@
 const launchesDB = require('./launches.mongo');
 const planets = require('./planets.mongo');
 
-const launches = new Map()
-
-//Hard-coded based on the object below. Can be improved.
-let latestFlightNumber = 100;
+const launches = new Map();
+const DEFAULT_FLIGHT_NUMBER = 100;
 
 const launch = {
-    flightNumber: 100,
-    mission: 'Exploration',
+    mission: 'In-memory object mission',
     rocket: 'Kepler 3',
     launchDate: new Date('December 27, 2030'),
     target: 'Kepler-1652 b',
     customers: ['NASA', 'Vick'],
     upcoming: true,
     success: true,
-}
-
-launches.set(launch.flightNumber, launch);
-
-//Add new launches 
-function addNewLaunch(launch){
-    latestFlightNumber++;
-    launches.set(
-        latestFlightNumber, 
-        Object.assign(launch,  //Data determined on the server-side
-        {
-            flightNumber: latestFlightNumber,
-            customers: ['NASA', 'Vick'],
-            upcoming: true,
-            success: true,
-        })
-    );
 }
 
 async function getAllLaunches(){
@@ -47,14 +27,37 @@ async function saveLaunch(launch){
 		throw new Error('No matching planet found!')
 	}
 
-	await launchesDB.updateOne({
+	await launchesDB.findOneAndUpdate({
 		flightNumber: launch.flightNumber,
 	},launch,{
 		upsert: true,
 	});
 }
 
-saveLaunch(launch);
+async function getLatestFlightNumber(){
+    const latestLaunch = await launchesDB
+    .findOne()
+    .sort('-flightNumber');
+
+    if(!latestLaunch){
+        return DEFAULT_FLIGHT_NUMBER;
+    }
+
+    return latestLaunch.flightNumber;
+}
+
+async function scheduleNewLaunch(launch){
+	const newFlightNumber = await getLatestFlightNumber() + 1;
+	
+	const newLaunch = Object.assign(launch, {
+		success: true,
+		upcoming: true,
+		customers: ['NASA', 'Vick'],
+		flightNumber: newFlightNumber,
+	});
+
+	await saveLaunch(newLaunch);
+}
 
 //Abort launches
 function existsLaunchWithId(launchId){
@@ -70,7 +73,7 @@ function abortLaunchbyId(launchId){
 
 module.exports = {
     getAllLaunches,
-    addNewLaunch,
+    scheduleNewLaunch,
     existsLaunchWithId,
     abortLaunchbyId,
 }

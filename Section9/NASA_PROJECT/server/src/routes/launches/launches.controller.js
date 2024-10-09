@@ -1,6 +1,6 @@
 const {
     getAllLaunches,
-    addNewLaunch,
+    scheduleNewLaunch,
     existsLaunchWithId,
     abortLaunchbyId,
 } = require('../../models/launches.model')
@@ -9,7 +9,7 @@ async function httpGetAllLaunches(req, res){
     res.status(200).json(await getAllLaunches())
 }
 
-function httpAddNewLaunch(req, res){
+async function httpAddNewLaunch(req, res){
     const launch = req.body;
 
     //Bad-request from client if client input launch data is missing
@@ -26,7 +26,7 @@ function httpAddNewLaunch(req, res){
         });
     }
 
-    addNewLaunch(launch)
+    await scheduleNewLaunch(launch)
     return res.status(201).json(launch)
 }
 
