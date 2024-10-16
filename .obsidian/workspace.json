@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section12/173_Object_ID/173_Object_IDs.md",
+                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section12/173_Object_ID/173_Object_IDs.md",
+                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section12/173_Object_ID/173_Object_IDs.md",
+                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section12/173_Object_ID/173_Object_IDs.md"
+                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md"
               }
             }
           }
@@ -148,43 +149,43 @@
   },
   "active": "ef9fe7e1d083a562",
   "lastOpenFiles": [
-    "Section12/162_Mongoose/162_Mongoose.md",
-    "Section12/159_Setting_MongoDB_Atlas/159_Setting_MongoDB_Atlas.md",
-    "Section12/181_Set_On_Insert/181_Set_on_Insert.md",
-    "Section12/175_Saving_Launches/175_Saving_Launches.md",
-    "Section12/174_Excluding_fields_from_response/174_Excluding_fields_from_response.md",
+    "Section13/193_Loading_SpaceX_data_API/193_Loading_SpaceX_data_API.md",
+    "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
+    "Section13/194_Mapping_SpaceX_Data_to_DB",
+    "Section13/192_Running_search_queries/192_Running_search_queries.md",
+    "Section13/188_The_spaceX_API/188_spaceX_API.md",
+    "Section13/187_Working_with_spaceX/187_Working_with_SpaceX.md",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/node/classes/URLSearchParams.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/node/classes/FormData.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/browser/classes/Blob.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/browser/classes/FormData.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/common/utils.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/env/classes/FormData.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/node/index.js",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/node/classes",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/core/README.md",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/helpers/README.md",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/env/README.md",
+    "Section9/NASA_PROJECT/node_modules/axios/lib/adapters/README.md",
+    "Section9/NASA_PROJECT/node_modules/axios/README.md",
+    "Section9/NASA_PROJECT/node_modules/axios/CHANGELOG.md",
+    "Section9/NASA_PROJECT/node_modules/axios/SECURITY.md",
+    "Section9/NASA_PROJECT/node_modules/axios/MIGRATION_GUIDE.md",
+    "Section9/NASA_PROJECT/node_modules/delayed-stream/Readme.md",
+    "Section9/NASA_PROJECT/node_modules/mime-db/README.md",
+    "Section9/NASA_PROJECT/node_modules/mime-db/HISTORY.md",
+    "Section9/NASA_PROJECT/node_modules/mime-types/HISTORY.md",
+    "Section9/NASA_PROJECT/node_modules/mime-types/README.md",
+    "Section9/NASA_PROJECT/node_modules/asynckit/README.md",
+    "Section9/NASA_PROJECT/node_modules/combined-stream/Readme.md",
+    "Section9/NASA_PROJECT/node_modules/proxy-from-env/README.md",
+    "Section9/NASA_PROJECT/node_modules/form-data/Readme.md",
+    "Section9/NASA_PROJECT/node_modules/follow-redirects/README.md",
+    "Section13/191_Exploring_spaceX_launches_API/191_Exploring_spaceX_launches_API.md",
+    "Section13/189_Versioning_Node_APIs/189_Versioning_Node_APIs.md",
     "Section12/173_Object_ID/173_Object_IDs.md",
-    "Section12/177_Referential_Integrity/177_Referential_Integrity.md",
-    "Section12/180_Scheduling_new_launches/180_Scheduling_new_launches.md",
-    "Section12/181_Set_On_Insert",
-    "Section12/179_Getting_latest_flight_number/179_Getting_latest_flight_number.md",
-    "Section12/180_Scheduling_new_launches",
-    "Section12/178_AutoIncrement_MongoDB/178_Autoincrement_MongoDB.md",
-    "Section12/179_Getting_latest_flight_number",
-    "Section12/167_Mongoose_MVC_models/167_Mongoose_vs_MVC_models.md",
-    "Section12/178_AutoIncrement_MongoDB",
-    "Section12/176_Listing_All_Launches/176_Listing_All_Launches.md",
-    "Section12/177_Referential_Integrity",
-    "Section12/176_Listing_All_Launches",
     "Section12/Untitled.canvas",
-    "Section12/175_Saving_Launches",
-    "Section12/174_Excluding_fields_from_response",
-    "Section11/143_Maximizing_cluster_performance/143_Maximizing_Cluster_Performance.md",
-    "Section11/141_Node_Cluster_Module/141_Node_Cluster_Module.md",
-    "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md",
-    "Section9/NASA_PROJECT/server/public/asset-manifest.json",
-    "Section9/NASA_PROJECT/server/public/index.html",
-    "Section12/171_Exploring_data_using_Atlas/171_Exploring_Data_using_Atlas.md",
-    "Section9/106_React_JS_frontend_walkthrough/106_React_JS_Frontend_Walkthrough.md",
-    "Section9/107_API_Server_setup/107_API_Server_setup.md",
-    "Section12/170_The_upsert_operation/170_The_upsert_operation.md",
-    "Section12/166_Creating_models_from_schemas/166_Models_from_schemas.md",
-    "Section12/169_Finding_Documents/169_Finding_Documents.md",
-    "Section12/154_Comparing_NoSQL_SQL/154_Comparing_NoSQL_to_SQL.md",
-    "Section12/155_Schemas_Schemaless_DBs/155_DB_schemas_Schemaless_DBs.md",
-    "Section12/156_Choosing_a_DB_NASA/155_Choosing_a_DB_NASA.md",
-    "Section12/168_Creating_Inserting_Documents/168_Creating_Inserting_Documents.md",
-    "Section12/163_Creating_Mongoose_schemas/163_Mongoose_schemas.md",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
     "Section9/NASA_PROJECT/server/public/img/background-medium.jpg",
