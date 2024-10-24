@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee6e35b442033b3",
+        "id": "a0d150883a5b5406",
         "type": "tabs",
         "children": [
           {
-            "id": "ef9fe7e1d083a562",
+            "id": "70d041fdc539078c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
+                "file": "Section13/189_Versioning_Node_APIs/189_Versioning_Node_APIs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "189_Versioning_Node_APIs"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -86,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -103,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -117,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -147,12 +158,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef9fe7e1d083a562",
+  "active": "70d041fdc539078c",
   "lastOpenFiles": [
-    "Section13/193_Loading_SpaceX_data_API/193_Loading_SpaceX_data_API.md",
+    "Section13/196_Minimizing_API_load/196_Minimizing_API_load.md",
+    "Section13/195_Using_Paginated_APIs/195_Using_paginated_APIs.md",
+    "Section13/196_Minimizing_API_load",
     "Section13/194_Mapping_SpaceX_Data_to_DB/194_Mapping_SpaceX_data_to_API.md",
-    "Section13/194_Mapping_SpaceX_Data_to_DB",
+    "Section13/191_Exploring_spaceX_launches_API/191_Exploring_spaceX_launches_API.md",
+    "Section13/195_Using_Paginated_APIs",
     "Section13/192_Running_search_queries/192_Running_search_queries.md",
+    "Section12/164_Exercise_Schema_planets/164_Schema_for_planets.md",
+    "Section12/173_Object_ID/173_Object_IDs.md",
+    "Section12/174_Excluding_fields_from_response/174_Excluding_fields_from_response.md",
+    "Section12/175_Saving_Launches/175_Saving_Launches.md",
+    "Section12/176_Listing_All_Launches/176_Listing_All_Launches.md",
+    "Section12/177_Referential_Integrity/177_Referential_Integrity.md",
+    "Section12/178_AutoIncrement_MongoDB/178_Autoincrement_MongoDB.md",
+    "Section12/179_Getting_latest_flight_number/179_Getting_latest_flight_number.md",
+    "Section12/180_Scheduling_new_launches/180_Scheduling_new_launches.md",
+    "Section13/193_Loading_SpaceX_data_API/193_Loading_SpaceX_data_API.md",
+    "Section13/194_Mapping_SpaceX_Data_to_DB",
     "Section13/188_The_spaceX_API/188_spaceX_API.md",
     "Section13/187_Working_with_spaceX/187_Working_with_SpaceX.md",
     "Section9/NASA_PROJECT/node_modules/axios/lib/platform/node/classes/URLSearchParams.js",
@@ -162,8 +187,6 @@
     "Section9/NASA_PROJECT/node_modules/axios/lib/platform/browser/classes/FormData.js",
     "Section9/NASA_PROJECT/node_modules/axios/lib/platform/common/utils.js",
     "Section9/NASA_PROJECT/node_modules/axios/lib/env/classes/FormData.js",
-    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/node/index.js",
-    "Section9/NASA_PROJECT/node_modules/axios/lib/platform/node/classes",
     "Section9/NASA_PROJECT/node_modules/axios/lib/core/README.md",
     "Section9/NASA_PROJECT/node_modules/axios/lib/helpers/README.md",
     "Section9/NASA_PROJECT/node_modules/axios/lib/env/README.md",
@@ -173,18 +196,6 @@
     "Section9/NASA_PROJECT/node_modules/axios/SECURITY.md",
     "Section9/NASA_PROJECT/node_modules/axios/MIGRATION_GUIDE.md",
     "Section9/NASA_PROJECT/node_modules/delayed-stream/Readme.md",
-    "Section9/NASA_PROJECT/node_modules/mime-db/README.md",
-    "Section9/NASA_PROJECT/node_modules/mime-db/HISTORY.md",
-    "Section9/NASA_PROJECT/node_modules/mime-types/HISTORY.md",
-    "Section9/NASA_PROJECT/node_modules/mime-types/README.md",
-    "Section9/NASA_PROJECT/node_modules/asynckit/README.md",
-    "Section9/NASA_PROJECT/node_modules/combined-stream/Readme.md",
-    "Section9/NASA_PROJECT/node_modules/proxy-from-env/README.md",
-    "Section9/NASA_PROJECT/node_modules/form-data/Readme.md",
-    "Section9/NASA_PROJECT/node_modules/follow-redirects/README.md",
-    "Section13/191_Exploring_spaceX_launches_API/191_Exploring_spaceX_launches_API.md",
-    "Section13/189_Versioning_Node_APIs/189_Versioning_Node_APIs.md",
-    "Section12/173_Object_ID/173_Object_IDs.md",
     "Section12/Untitled.canvas",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",

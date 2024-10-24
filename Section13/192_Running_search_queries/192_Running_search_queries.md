@@ -19,7 +19,7 @@ Next, by importing the postman request collection we can make requests to many c
 
 The query launches is a POST request to GET data from our launches. This is a pattern that we will sometimes see when we are doing more than a basic GET request. Whenever we need to pass more parameters to GET specific data, we use the body of the POST request to specify the parameters of our query. This way we can specify the kinds of launch data we want to see.
 
-Technically, this pattern is not RESTful since the HTTP verb is used differently from its purpose (POST to GET data). However, it is a reasonable use case for the POST request and exception.
+Technically, this pattern is not RESTful since the HTTP verb is used differently from its purpose (POST to GET data). However, it is a reasonable use case for the POST request and an acceptable exception.
 
 How does it work? If we pass nothing, we get all the launches under the *docs* property in the response. However, we can now get specific data from other collections in our response. For instance the rocket name. 
 

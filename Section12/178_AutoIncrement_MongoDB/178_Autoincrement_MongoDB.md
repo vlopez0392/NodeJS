@@ -12,8 +12,7 @@ If we are running our server in a cluster, we want to handle our requests in any
 
 Unfortunately, in mongoDB keeping track of states such as the *latestFlightNumber* is harder to accomplish compared to SQL. While mongoDB allows us to flexibly work with JSON data, scale our data horizontally and giving us flexible schemas, keeping automatic track of states that increment with each request is something we must handle ourselves.
 
-For instance, in SQL (all flavors )we have the *AUTO_INCREMENT*  feature. In the schema below we create a table of animals with names and id as column names.  With the *AUTO_INCREMENT* feature, 
-
+For instance, in SQL (all flavors ) we have the *AUTO_INCREMENT*  feature. In the schema below we create a table of animals with names and id as column names.  
 ```SQL
 CREATE TABLE animals(
 	id MEDIUM NOT NULL AUTO_INCREMENT
@@ -22,7 +21,7 @@ CREATE TABLE animals(
 );
 ```
 
-Whenever we create a new animal, the *id* is automatically incremented. SQL manages this id value and what it's value should be. In Postgres, we use the *SERIAL* keyword to achieve this.  In MongoDB, there are many ways to do this, unfortunately no standardized method or keyword exists and we must handle the increment ourselves. 
+With the *AUTO_INCREMENT* feature, whenever we create a new animal, the *id* is automatically incremented. SQL manages this id value and what it's value should be. In Postgres, we use the *SERIAL* keyword to achieve this.  In MongoDB, there are many ways to do this, unfortunately no standardized method or keyword exists and we must handle the increment ourselves. 
 
 #### The mongoDB way to auto-increment 
 

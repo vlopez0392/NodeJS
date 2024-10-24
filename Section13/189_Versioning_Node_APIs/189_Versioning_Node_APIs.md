@@ -1,6 +1,6 @@
 ### Versioning APIs 
 
-What does versioning an API mean? All this means is grouping the routers of an API under a specific version path (e.g. /v1, /v2, etc) and keeping old versions around after adding a new version. We may choose to deprecate support for a version and tell users support will stop. V
+What does versioning an API mean? All this means is grouping the routers of an API under a specific version path (e.g. /v1, /v2, etc) and keeping old versions around after adding a new version. We may choose to deprecate support for a version and tell users support will stop. 
 
 Versioning allows users of our API to gradually move to the new version of the API while offering support for a while to the old versions of the API. As authors of the API we want to avoid users updating all at once potentially breaking their applications in the process. 
 

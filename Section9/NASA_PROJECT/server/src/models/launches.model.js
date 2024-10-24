@@ -16,11 +16,12 @@ const launch = {
     success: true,               //success
 }
 
-async function loadLaunchData(){
+async function populateLaunches(){
     console.log("Downloading launch data...");
     const response = await axios.post(SPACEX_API_URL, {
         query:{},
         options:{
+            pagination: false,
             populate:[
                 {
                     path:'rocket',
@@ -35,29 +36,45 @@ async function loadLaunchData(){
                     }
                 }
             ]
-        }
-    });
-
+        },
+    },
+    {
+        headers: {'Accept-Encoding': 'text/html: charset=UTF-8'}
+    },
+);
     const launchDocsData = response.data.docs;
-    for(const launchDoc in launchDocsData){
+    for(let i =  0 ; i < launchDocsData.length; i++){
 
         //Allows us to convert the list of customers into a single Array 
-        const payloads = launchDoc['payloads'];
+        const payloads = launchDocsData[i]['payloads'];
         const customers = payloads.flatMap((payload)=>{
             return payload['customers'];
         });
 
         const launch = {
-            flightNumber: launchDoc['flight_number'],
-            mission: launchDoc['name'],
-            rocket: launchDoc['rocket']['name'],
-            launchDate: launchDoc['date_local'],
-            upcoming: launchDoc['upcoming'],    
-            success:  launchDoc['success'], 
-            customers, 
+            flightNumber: launchDocsData[i]['flight_number'],
+            mission: launchDocsData[i]['name'],
+            rocket: launchDocsData[i]['rocket']['name'],
+            launchDate: launchDocsData[i]['date_local'],
+            upcoming: launchDocsData[i]['upcoming'],    
+            success:  launchDocsData[i]['success'], 
+            customers
         }
-    
         console.log(`${launch.flightNumber}, ${launch.mission}`);
+    }
+}
+
+async function loadLaunchData(){
+    const firstLaunch = await findLaunch({
+        flightNumber: 1, 
+        rocket: 'Falcon 1',
+        mission: 'FalconSat'
+    })
+
+    if(firstLaunch){
+        console.log("Launch data was already loaded!");
+    }else{
+        await populateLaunches()
     }
 }
 
@@ -106,13 +123,17 @@ async function scheduleNewLaunch(launch){
 	await saveLaunch(newLaunch);
 }
 
-//Abort launches
+async function findLaunch(filter){
+	return await launchesDB.findOne(filter)
+}
+
 async function existsLaunchWithId(launchId){
-    return await launchesDB.findOne({
+    return await findLaunch({
         flightNumber: launchId,
     });
 }
 
+//Abort launches
 async function abortLaunchbyId(launchId){
     const aborted = await launchesDB.updateOne({
         flightNumber: launchId,
