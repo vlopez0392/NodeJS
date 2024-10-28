@@ -5,8 +5,10 @@ We want any endpoint to make use of our pagination logic.  We will create a reus
 ```js
 async function httpGetAllLaunches(){
 	const {page, limit} = req.query
-	
-	res.status(200).json(await getAllLaunches())
+	//TODO: Design function to compute user input values of skip and limit
+	const skip = 1
+	const limit = 0
+	res.status(200).json(await getAllLaunches(skip,limit))
 }
 ```
 
@@ -28,4 +30,14 @@ function getPagination(query){
 }
 ```
 
-In mongo, if we pass a 0 to the limit function, then all the documents will be returned. This is the default behavior we want if no query params are passed in the GET request.
+In mongo, if we pass a 0 to the limit function, then all the documents will be returned. This is the default behavior we want if no query params are passed in the GET request. Currently, when we get all the launches in the get HTTP function, the skip and limit constants are hard-coded. 
+
+Now, with the *getPagination* function in our *query.js* file we can get the appropriate skip and limit values. We refactor the HTTP get launches function as follows: 
+
+```js
+async function httpGetAllLaunches(){
+	const {page, limit} = req.query
+	const launches = await getAllLaunches(skip,limit)
+	res.status(200).json(launches)
+}
+```

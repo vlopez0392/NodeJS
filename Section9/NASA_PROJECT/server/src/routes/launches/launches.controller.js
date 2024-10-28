@@ -11,7 +11,8 @@ const {
 
 async function httpGetAllLaunches(req, res){
     const {skip, limit} = getPagination(req.query);
-    const launches = await getAllLaunches(skip,limit)
+    console.log(skip,limit)
+    const launches = await getAllLaunches(skip,limit);
     res.status(200).json(launches);
 }
 

@@ -86,7 +86,7 @@ async function loadLaunchData(){
 
 async function getAllLaunches(skip, limit){
     return await launchesDB.find({}, {'__v':0, '_id':0})
-    .sort({flightNumber:1})
+    .sort({flightNumber:1}) //1 Sorts flights in ascending order by default
     .skip(skip)
     .limit(limit);
 }
