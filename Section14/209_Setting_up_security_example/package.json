@@ -1,0 +1,14 @@
+{
+  "name": "security-example",
+  "version": "1.0.0",
+  "description": "Security example ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Vick",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
