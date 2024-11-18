@@ -62,4 +62,6 @@ In addition, the *cert.pem* allows you to decrypt data encrypted with the privat
 
 #### Your connection is not private warning
 
-Since we are not a trusted CA recognized by our browser, our self-signed certificate is not trusted by the browser so it gives us a warning telling us our connection to the server is not private.
+Since we are not a trusted CA recognized by our browser, our self-signed certificate is not trusted by the browser so it gives us a warning telling us our connection to the server is not private. We must then confirm we trust the certificate to proceed connecting to the server. Since we are only testing our HTTPS server with our self-signed certificate, it is valid to proceed.
+
+Our site is no using https to communicate with the server, however it is no longer vulnerable to MIM (snooping) attacks.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section14/210_HTTPS_Node/210_HTTPS_Node.md",
+                "file": "Section14/214_API_Keys/214_API_Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "210_HTTPS_Node"
+              "title": "214_API_Keys"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "96a0b14a2389ab63",
@@ -159,22 +158,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53b007133cb9a95e",
+  "active": "5d4d814af932e325",
   "lastOpenFiles": [
+    "Section14/215_JWT_Tokens",
+    "Section13/198_199_Paginating_our_Endpoints/199_Paginating_our_endpoints_2.md",
+    "Section13/198_199_Paginating_our_Endpoints/198_Paginating_our_endpoints_1.md",
+    "Section14/214_API_Keys/214_API_Keys.md",
+    "Section12/173_Object_ID/173_Object_IDs.md",
+    "Section13/200_Sorting_paginated_data/200_Sorting_paginated_data.md",
+    "Section13/197_Persisting_SpaceX_data/197_Persisting_SpaceX_launches.md",
+    "Section13/195_Using_Paginated_APIs/195_Using_paginated_APIs.md",
+    "Section13/196_Minimizing_API_load/196_Minimizing_API_load.md",
+    "Section14/213_Social_Sign_In/213_Social_Sign_In.md",
+    "Section14/214_API_Keys",
+    "Section14/212_Authentication_Authorization/212_Authentication_Authorization.md",
+    "Section14/211_Helmet.js/211_Helmet.js.md",
+    "Section14/213_Social_Sign_In",
+    "Section14/212_Authentication_Authorization/Untitled",
+    "Section14/212_Authentication_Authorization",
+    "Section14/Security_Example/node_modules/helmet/index.d.mts",
+    "Section14/Security_Example/node_modules/helmet/SECURITY.md",
+    "Section14/Security_Example/node_modules/helmet/index.mjs",
+    "Section14/Security_Example/node_modules/helmet/README.md",
+    "Section14/Security_Example/node_modules/helmet/CHANGELOG.md",
+    "Section14/Security_Example/node_modules/helmet/package.json",
+    "Section14/Security_Example/node_modules/helmet/index.d.cts",
+    "Section14/Security_Example/node_modules/helmet/index.cjs",
+    "Section14/Security_Example/node_modules/helmet/LICENSE",
+    "Section14/210_HTTPS_Node/210_HTTPS_Node.md",
     "Section14/208_Digital_Certificates_MIM_attack_Signing/208_Digital_Certificates_MIM_attack_Signing.md",
     "Section14/209_Setting_up_security_example/209_Security_Example.md",
-    "Section14/210_HTTPS_Node/210_HTTPS_Node.md",
-    "Section14/Security_Example/cert.pem",
-    "Section14/Security_Example/key.pem",
-    "Section14/Security_Example/public/index.html",
-    "Section14/Security_Example/node_modules/setprototypeof/test/index.js",
-    "Section14/Security_Example/node_modules/setprototypeof/test",
-    "Section14/Security_Example/node_modules/setprototypeof/package.json",
-    "Section14/Security_Example/node_modules/setprototypeof/index.js",
-    "Section14/Security_Example/node_modules/setprototypeof/index.d.ts",
     "Section14/Security_Example/node_modules/setprototypeof/README.md",
-    "Section14/Security_Example/node_modules/setprototypeof/LICENSE",
-    "Section14/Security_Example/node_modules/setprototypeof",
     "Section14/Security_Example/node_modules/mime-db/README.md",
     "Section14/Security_Example/node_modules/mime-db/HISTORY.md",
     "Section14/Security_Example/node_modules/media-typer/README.md",
@@ -182,21 +196,6 @@
     "Section14/Security_Example/node_modules/debug/CHANGELOG.md",
     "Section14/Security_Example/node_modules/debug/README.md",
     "Section14/Security_Example/node_modules/on-finished/README.md",
-    "Section14/Security_Example/node_modules/on-finished/HISTORY.md",
-    "Section14/Security_Example/node_modules/object-inspect/CHANGELOG.md",
-    "Section14/Security_Example/node_modules/finalhandler/SECURITY.md",
-    "Section14/Security_Example/node_modules/finalhandler/README.md",
-    "Section14/Security_Example/node_modules/finalhandler/HISTORY.md",
-    "Section14/Security_Example/node_modules/send/node_modules/ms/readme.md",
-    "Section14/Security_Example/node_modules/send/node_modules/ms/license.md",
-    "Section14/Security_Example/node_modules/send/node_modules/encodeurl/README.md",
-    "Section14/Security_Example/node_modules/send/node_modules/encodeurl/HISTORY.md",
-    "Section14/Security_Example/node_modules/send/SECURITY.md",
-    "Section14/Security_Example/node_modules/send/README.md",
-    "Section14/Security_Example/node_modules/send/HISTORY.md",
-    "Section14/Security_Example/node_modules/etag/README.md",
-    "Section14/Security_Example/node_modules/etag/HISTORY.md",
-    "Section14/Security_Example/node_modules/parseurl/README.md",
     "Section12/Untitled.canvas",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",
