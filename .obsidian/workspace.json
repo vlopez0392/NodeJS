@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section14/214_API_Keys/214_API_Keys.md",
+                "file": "Section14/207_Encrypted_Connections_with_SSL_TLS/207_Encrypted_Connections_with_SSL_TLS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "214_API_Keys"
+              "title": "207_Encrypted_Connections_with_SSL_TLS"
             }
           }
         ]
@@ -158,12 +158,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d4d814af932e325",
+  "active": "53b007133cb9a95e",
   "lastOpenFiles": [
+    "Section14/216_OAuth_standard/216_The_OAuth_Standard.md",
+    "Section14/217_OAuth_2_0_Code_Flow/217_OAuth_2_0_Code_Flow.md",
+    "Section14/217_OAuth_2_0_Code_Flow/217_OAuth_2_0_Code_Flow",
+    "Section14/217_OAuth_2_0_Code_Flow",
+    "Section14/211_Helmet.js/211_Helmet.js.md",
+    "Section14/215_JWT_Tokens/215_JWT_Tokens.md",
+    "Section14/209_Setting_up_security_example/209_Security_Example.md",
+    "Section14/207_Encrypted_Connections_with_SSL_TLS/207_Encrypted_Connections_with_SSL_TLS.md",
+    "Section14/214_API_Keys/214_API_Keys.md",
+    "Section14/216_OAuth_standard",
     "Section14/215_JWT_Tokens",
     "Section13/198_199_Paginating_our_Endpoints/199_Paginating_our_endpoints_2.md",
     "Section13/198_199_Paginating_our_Endpoints/198_Paginating_our_endpoints_1.md",
-    "Section14/214_API_Keys/214_API_Keys.md",
     "Section12/173_Object_ID/173_Object_IDs.md",
     "Section13/200_Sorting_paginated_data/200_Sorting_paginated_data.md",
     "Section13/197_Persisting_SpaceX_data/197_Persisting_SpaceX_launches.md",
@@ -172,7 +181,6 @@
     "Section14/213_Social_Sign_In/213_Social_Sign_In.md",
     "Section14/214_API_Keys",
     "Section14/212_Authentication_Authorization/212_Authentication_Authorization.md",
-    "Section14/211_Helmet.js/211_Helmet.js.md",
     "Section14/213_Social_Sign_In",
     "Section14/212_Authentication_Authorization/Untitled",
     "Section14/212_Authentication_Authorization",
@@ -181,21 +189,13 @@
     "Section14/Security_Example/node_modules/helmet/index.mjs",
     "Section14/Security_Example/node_modules/helmet/README.md",
     "Section14/Security_Example/node_modules/helmet/CHANGELOG.md",
-    "Section14/Security_Example/node_modules/helmet/package.json",
-    "Section14/Security_Example/node_modules/helmet/index.d.cts",
-    "Section14/Security_Example/node_modules/helmet/index.cjs",
-    "Section14/Security_Example/node_modules/helmet/LICENSE",
     "Section14/210_HTTPS_Node/210_HTTPS_Node.md",
     "Section14/208_Digital_Certificates_MIM_attack_Signing/208_Digital_Certificates_MIM_attack_Signing.md",
-    "Section14/209_Setting_up_security_example/209_Security_Example.md",
     "Section14/Security_Example/node_modules/setprototypeof/README.md",
     "Section14/Security_Example/node_modules/mime-db/README.md",
     "Section14/Security_Example/node_modules/mime-db/HISTORY.md",
     "Section14/Security_Example/node_modules/media-typer/README.md",
     "Section14/Security_Example/node_modules/media-typer/HISTORY.md",
-    "Section14/Security_Example/node_modules/debug/CHANGELOG.md",
-    "Section14/Security_Example/node_modules/debug/README.md",
-    "Section14/Security_Example/node_modules/on-finished/README.md",
     "Section12/Untitled.canvas",
     "Section9/NASA_PROJECT/server/public/img/glow.png",
     "Section9/NASA_PROJECT/server/public/img/background.jpg",

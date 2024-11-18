@@ -14,7 +14,7 @@ HTTPS prevents other users to eavesdrop on our data and tamper with it. This is 
 
 When we browse to a site using an unencrypted HTTP connection, the data in our request to the server and the data in the response can be read by anyone with access to our network (Wifi) using a packet analysis tool like Wireshark. If data is not encrypted, Wireshark has the ability to inspect traffic as it is being sent across our network. This is not ideal if the traffic includes sensitive data such as passwords or other data we want to keep private. 
 
-Under the hood, the HTTP protocol uses the powerful encryption capabilities provided by TLS (Transport Layer Security) and SSL (Secure Sockets Layer). Usually, SSL and TLS are used interchangeably but to be accurate, TLS is the successor to SSL and the latest version of the encryption protocol. 
+Under the hood, the HTTPS protocol uses the powerful encryption capabilities provided by TLS (Transport Layer Security) and SSL (Secure Sockets Layer). Usually, SSL and TLS are used interchangeably but to be accurate, TLS is the successor to SSL and the latest version of the encryption protocol. 
 
 #### HTTP vs HTTPS
 
